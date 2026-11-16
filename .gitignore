@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+**/glossary.aux
+**/glossary.log
+**/glossary.tex

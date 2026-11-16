@@ -1,0 +1,4752 @@
+- root: "∅-b-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "aboy"
+        irrealis: "abe"
+        past: "əbe"
+        imperative: "əbi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to like"
+          meaning_he: "לאהוב"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to want, to desire"
+          meaning_he: "לרצות"
+
+- root: "∅-d-b"
+  stems:
+    - class: "I"
+      bases:
+        realis: "adob"
+        irrealis: "adəb"
+        past: "edib"
+        imperative: "edub"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to chastise, to punish"
+          meaning_he: "להעניש"
+
+- root: "∅-d-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "iday"
+        irrealis: "ade"
+        past: "ədye"
+        imperative: "ud"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to come"
+          meaning_he: "לבוא"
+      idioms:
+        - lishan_didan: "xōš- ∅dy"
+          meaning_en: "to want, to desire"
+          meaning_he: "שיהיה בא למישהו"
+        - lishan_didan: "bāl- ∅dy"
+          meaning_en: "to recall"
+          meaning_he: "להיזכר"
+      examples:
+        - lishan_didan: "xōší idáyle"
+          meaning_en: "I want, I desire"
+          meaning_he: "בא לי"
+        - lishan_didan: "bālí ədyéle"
+          meaning_en: "I recall now"
+          meaning_he: "נזכרתי"
+
+    - class: "III"
+      pretendant: "m-d-y"
+      bases:
+        realis: "madoy"
+        irrealis: "made"
+        past: "mde"
+        imperative: "mdi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bring"
+          meaning_he: "להביא"
+      idioms:
+        - lishan_didan: "xōš- mdy"
+          meaning_en: "to make want, to bring back appetite"
+          meaning_he: "להחזיר תיאבון, לגרום לרצות"
+        - lishan_didan: "bāl- mdy"
+          meaning_en: "to remind"
+          meaning_he: "להזכיר"
+      examples:
+        - lishan_didan: "xōšáw mdéle"
+          meaning_en: "He brought back her appetite"
+          meaning_he: "נתן לה תיאבון"
+        - lishan_didan: "bālí madé"
+          meaning_en: "He reminds me"
+          meaning_he: "הוא מזכיר לי"
+
+- root: "∅-mb-l"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "ambol"
+        irrealis: "ambəl"
+        past: "əmbil"
+        imperative: "əmbul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take something to some place"
+          meaning_he: "לשנע, לקחת משהו למקום מסוים"
+
+- root: "∅-m-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "imar"
+        irrealis: "amər"
+        past: "mir"
+        imperative: "mur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to say"
+          meaning_he: "לומר, להגיד"
+
+- root: "∅-nt-y"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "antoy"
+        irrealis: "ante"
+        past: "ənte"
+        imperative: "ənti"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take"
+          meaning_he: "לקחת"
+      phrases:
+        - lishan_didan: "əlhá anté"
+          meaning_en: "May God take / May be killed"
+          meaning_he: "שאלוהים יקח"
+
+    - class: "Q-III"
+      pretendant: "m-nt-y"
+      bases:
+        realis: "mantoy"
+        irrealis: "mante"
+        past: "mənte"
+        imperative: "mənti"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to grant"
+          meaning_he: "להעניק"
+      phrases:
+        - lishan_didan: "əlhá mənté"
+          meaning_en: "With God's help / God willing"
+          meaning_he: "בעזרת השם"
+
+- root: "∅-š-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ašoq"
+        irrealis: "ašəq"
+        past: "ešiq"
+        imperative: "ešuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fall in love"
+          meaning_he: "להתאהב"
+
+- root: "∅-w-d"
+  stems:
+    - class: "I"
+      bases:
+        realis: "iwad"
+        irrealis: "od"
+        past: "wid"
+        imperative: "wud"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to do"
+          meaning_he: "לעשות"
+      idioms:
+        - lishan_didan: "∅wd (sth.)"
+          meaning_en: "to do/make (sth.)"
+          meaning_he: "לעשות משהו"
+      examples:
+        - lishan_didan: "šrú wə́dli"
+          meaning_en: "I started (lit. start I.did)"
+          meaning_he: "התחלתי"
+
+- root: "∅-w-r"
+  stems:
+    - class: "I"
+      pretendant: "w-y-r"
+      bases:
+        realis: "wiyar"
+        irrealis: "or"
+        past: "wir"
+        imperative: "wur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to enter"
+          meaning_he: "להכנס"
+
+- root: "∅-x-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ixal"
+        irrealis: "axəl"
+        past: "xil"
+        imperative: "xul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to eat"
+          meaning_he: "לאכול"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to receive (a beating)"
+          meaning_he: "לאכול (מכות)"
+      examples:
+        - lishan_didan: "ə́mət +rába +wādá la axlí, kapní"
+          meaning_en: "If you don't eat for a long time, you get hungry"
+          meaning_he: "אם לא אוכלים הרבה זמן, נהיים רעבים"
+
+    - class: "III"
+      pretendant: "m-x-l"
+      bases:
+        realis: "maxol"
+        irrealis: "maxəl"
+        past: "mxil"
+        imperative: "mxul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to feed"
+          meaning_he: "להאכיל"
+
+- root: "∅-y-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ayol"
+        irrealis: "aye"
+        past: "yil"
+        imperative: "yi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to know"
+          meaning_he: "לדעת"
+
+    - class: "III"
+      pretendant: "m-y-l"
+      bases:
+        realis: "mayol"
+        irrealis: "mayəl"
+        past: "myil"
+        imperative: "myul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to inform, to let know, to make known"
+          meaning_he: "ליידע"
+
+- root: "∅-y-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ayoq"
+        irrealis: "eq"
+        past: "iq"
+        imperative: "uq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be narrow"
+          meaning_he: "להיות צר"
+
+    - class: "III"
+      pretendant: "m-y-q"
+      bases:
+        realis: "mayoq"
+        irrealis: "mayəq"
+        past: "myiq"
+        imperative: "myuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to narrow, to make narrow"
+          meaning_he: "להצר"
+
+- root: "∅-z-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "izal"
+        irrealis: "ēze"
+        past: "zil"
+        imperative: "si"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to go"
+          meaning_he: "ללכת"
+      idioms:
+        - lishan_didan: "əm-bāl- ∅zl"
+          meaning_en: "to forget"
+          meaning_he: "לשכוח"
+      examples:
+        - lishan_didan: "əm-bālóx zəllé"
+          meaning_en: "He forgot"
+          meaning_he: "שכחת"
+
+- root: "∅-z-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "izam"
+        irrealis: "azəm"
+        past: "ezim"
+        imperative: "ezum"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to invite"
+          meaning_he: "להזמין"
+
+- root: "b-h-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "bahor"
+        irrealis: "bahər"
+        past: "bhir"
+        imperative: "bhur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to brighten"
+          meaning_he: "להתבהר"
+
+    - class: "III"
+      pretendant: "m-bh-r"
+      bases:
+        realis: "mabhor"
+        irrealis: "mabhər"
+        past: "mbhir"
+        imperative: "mbhur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to shine"
+          meaning_he: "לזהור"
+      examples:
+        - lishan_didan: "šəmšá mabhórla"
+          meaning_en: "The sun is shining"
+          meaning_he: "השמש מאירה"
+
+- root: "b-jb-j"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "bajboj"
+        irrealis: "bajbəj"
+        past: "bəbjij"
+        imperative: "bəbjuj"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to crawl"
+          meaning_he: "לזחול"
+
+- root: "b-lb-l"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "balbol"
+        irrealis: "balbəl"
+        past: "bəlbil"
+        imperative: "bəlbul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to search, to seek, to look for"
+          meaning_he: "לחפש"
+
+- root: "b-l-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baloy"
+        irrealis: "bale"
+        past: "ble"
+        imperative: "bli"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to swallow"
+          meaning_he: "לבלוע"
+
+- root: "b-n-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "banoy"
+        irrealis: "bane"
+        past: "bne"
+        imperative: "bni"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to build"
+          meaning_he: "לבנות"
+
+- root: "b-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baqor"
+        irrealis: "baqər"
+        past: "bqir"
+        imperative: "bqur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ask"
+          meaning_he: "לשאול"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to request"
+          meaning_he: "לבקש"
+      idioms:
+        - lishan_didan: "rēš- bqr"
+          meaning_en: "to inquire about"
+          meaning_he: "לברר לגבי"
+      examples:
+        - lishan_didan: "reš-jūlé bqə́rli"
+          meaning_en: "I inquired about the clothes"
+          meaning_he: "בררתי לגבי הבגדים"
+
+- root: "b-rb-t"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "barbot"
+        irrealis: "barbət"
+        past: "bərbit"
+        imperative: "bərbut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to move oneself"
+          meaning_he: "לזוז"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to move something"
+          meaning_he: "להזיז"
+
+- root: "b-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "barox"
+        irrealis: "barəx"
+        past: "brix"
+        imperative: "brux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bless"
+          meaning_he: "לברך"
+      idioms:
+        - lishan_didan: "šalomi- brx"
+          meaning_en: "to greet"
+          meaning_he: "לברך לשלום"
+      examples:
+        - lishan_didan: "šalomí brə́xlu"
+          meaning_en: "They greeted"
+          meaning_he: "הם בירכו לשלום"
+        - lishan_didan: "šalomyáw brə́xle"
+          meaning_en: "He greeted her"
+          meaning_he: "הוא בירך אותה לשלום"
+
+- root: "b-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baroy"
+        irrealis: "bare"
+        past: "bre"
+        imperative: "bri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to create"
+          meaning_he: "ליצור, לברוא"
+
+- root: "b-s-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "basom"
+        irrealis: "basəm"
+        past: "bsim"
+        imperative: "bsum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to well, to heal"
+          meaning_he: "להבריא, להחלים, להיטיב"
+      idioms:
+        - lishan_didan: "rēš- bsm"
+          meaning_en: "to send regards"
+          meaning_he: "לדרוש בשלום"
+        - lishan_didan: "ləbb- bsm"
+          meaning_en: "to comfort"
+          meaning_he: "לנחם"
+      examples:
+        - lishan_didan: "reš-yālóx basə́m"
+          meaning_en: "He sends regards to your child"
+          meaning_he: "הוא דרש בשלום הילד שלך"
+        - lishan_didan: "ləbbí bsə́mla"
+          meaning_en: "She comforted me"
+          meaning_he: "היא ניחמה אותי"
+
+- root: "b-ṣ-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baṣor"
+        irrealis: "baṣər"
+        past: "bṣir"
+        imperative: "bṣur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to decrease, to diminish"
+          meaning_he: "לקטון"
+
+    - class: "III"
+      pretendant: "m-bṣ-r"
+      bases:
+        realis: "mabṣor"
+        irrealis: "mabṣər"
+        past: "məbṣir"
+        imperative: "məbṣur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to reduce, to diminish something"
+          meaning_he: "להקטין"
+
+- root: "b-š-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "bašol"
+        irrealis: "bašəl"
+        past: "bšil"
+        imperative: "bšul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cook"
+          meaning_he: "לבשל"
+
+- root: "b-x-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baxoš"
+        irrealis: "baxəš"
+        past: "bxiš"
+        imperative: "bxuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to forgive"
+          meaning_he: "לסלוח"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to excuse"
+          meaning_he: "לסלוח"
+      examples:
+        - lishan_didan: "bxúšunni"
+          meaning_en: "excuse me"
+          meaning_he: "סלחו לי"
+
+- root: "b-x-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "baxoy"
+        irrealis: "baxe"
+        past: "bxe"
+        imperative: "bxi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to cry"
+          meaning_he: "לבכות"
+
+- root: "b-y-z"
+  stems:
+    - class: "I"
+      bases:
+        realis: "biyaz"
+        irrealis: "bez"
+        past: "biz"
+        imperative: "buz"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to spill"
+          meaning_he: "לשפוך"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be spilled"
+          meaning_he: "להישפך"
+
+- root: "b-z-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "bazoy"
+        irrealis: "baze"
+        past: "bze"
+        imperative: "bzi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make a hole, to pierce"
+          meaning_he: "לחורר"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get pierced"
+          meaning_he: "להתחורר"
+      idioms:
+        - lishan_didan: "bāl- bzy"
+          meaning_en: "to nag"
+          meaning_he: "לעשות חור בראש, לחפור, לנדנד"
+      examples:
+        - lishan_didan: "bālí bzélox"
+          meaning_en: "You nagged me"
+          meaning_he: "עשית לי חור בראש"
+        - lishan_didan: "bālí bzéle"
+          meaning_en: "I am nagged"
+          meaning_he: "נהיה לי חור בראש"
+
+- root: "č-rč-y"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "čarčoy"
+        irrealis: "čarče"
+        past: "čərče"
+        imperative: "čərči"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to ruin (food)"
+          meaning_he: "להרוס (אוכל)"
+
+- root: "č-y-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "čiyam"
+        irrealis: "čem"
+        past: "čim"
+        imperative: "čum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to close eyes"
+          meaning_he: "לעצום עיניים"
+
+- root: "d-f-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "dafoy"
+        irrealis: "dafe"
+        past: "dfe"
+        imperative: "dfi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to pay"
+          meaning_he: "לשלם"
+
+- root: "d-g-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "dagol"
+        irrealis: "dagəl"
+        past: "dgil"
+        imperative: "dgul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to lie"
+          meaning_he: "לשקר"
+
+- root: "d-h-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "dahol"
+        irrealis: "dahe"
+        past: "dhil"
+        imperative: "dhul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to hit, to beat"
+          meaning_he: "להכות, להרביץ"
+
+- root: "d-h-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "dahoy"
+        irrealis: "dahe"
+        past: "dhe"
+        imperative: "dhi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to curse"
+          meaning_he: "לקלל"
+
+- root: "d-l-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "daloq"
+        irrealis: "daləq"
+        past: "dliq"
+        imperative: "dluq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to ignite oneself"
+          meaning_he: "לדלוק"
+
+    - class: "III"
+      pretendant: "m-l-q"
+      bases:
+        realis: "maloq"
+        irrealis: "maləq"
+        past: "mliq"
+        imperative: "mluq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ignite, to kindle"
+          meaning_he: "להדליק"
+
+- root: "d-m-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "damox"
+        irrealis: "daməx"
+        past: "dmix"
+        imperative: "dmux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to fall asleep"
+          meaning_he: "להירדם"
+
+    - class: "III"
+      pretendant: "m-dm-x"
+      bases:
+        realis: "madmox"
+        irrealis: "madməx"
+        past: "mədmix"
+        imperative: "mədmux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to put to bed, to put to sleep"
+          meaning_he: "להשכיב לישון"
+
+- root: "d-r-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "daros"
+        irrealis: "darəs"
+        past: "dris"
+        imperative: "drus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to study"
+          meaning_he: "ללמוד"
+
+- root: "d-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "daroy"
+        irrealis: "dare"
+        past: "dre"
+        imperative: "dri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to put"
+          meaning_he: "לשים"
+
+- root: "d-w-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "diwaq"
+        irrealis: "doq"
+        past: "dwiq"
+        imperative: "duq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to catch, to hold"
+          meaning_he: "לתפוס, להחזיק"
+
+- root: "d-w-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "diwar"
+        irrealis: "dor"
+        past: "dwir"
+        imperative: "dur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to spin, to rotate"
+          meaning_he: "להסתובב"
+
+    - class: "III"
+      pretendant: "m-dw-r"
+      bases:
+        realis: "madwor"
+        irrealis: "madwər"
+        past: "mədwir"
+        imperative: "mdur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to spin, to rotate"
+          meaning_he: "לסובב"
+
+- root: "d-y-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "diyap"
+        irrealis: "dep"
+        past: "dip"
+        imperative: "dup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fold"
+          meaning_he: "לקפל"
+
+- root: "d-y-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "diyaq"
+        irrealis: "deq"
+        past: "diq"
+        imperative: "duq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to knock"
+          meaning_he: "לדפוק, לנקוש"
+
+- root: "d-y-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "diyar"
+        irrealis: "dar"
+        past: "dir"
+        imperative: "dur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to return"
+          meaning_he: "לחזור"
+
+    - class: "III"
+      pretendant: "m-d-r"
+      bases:
+        realis: "mador"
+        irrealis: "madər"
+        past: "mdir"
+        imperative: "mdur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bring back, to return something"
+          meaning_he: "להחזיר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to close"
+          meaning_he: "לסגור"
+
+- root: "f-k-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "fakor"
+        irrealis: "fakər"
+        past: "fkir"
+        imperative: "fkur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to understand"
+          meaning_he: "להבין"
+
+    - class: "III"
+      pretendant: "m-fk-r"
+      bases:
+        realis: "mafkor"
+        irrealis: "mafkər"
+        past: "məfkir"
+        imperative: "məfkur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to explain"
+          meaning_he: "להסביר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to convince"
+          meaning_he: "לשכנע"
+
+- root: "f-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "faroy"
+        irrealis: "fare"
+        past: "fre"
+        imperative: "fri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to fly"
+          meaning_he: "לעוף"
+      idioms:
+        - lishan_didan: "rēš- fry"
+          meaning_en: "to hype about, to be into"
+          meaning_he: "לעוף על משהו, להתלהב מאוד מ-, להידלק על"
+        - lishan_didan: "reš-nōš- fry"
+          meaning_en: "to be full of oneself"
+          meaning_he: "לעוף על עצמו"
+      examples:
+        - lishan_didan: "rēš-qrāwé fare"
+          meaning_en: "He is into wars"
+          meaning_he: "הוא גיק של מלחמות"
+        - lishan_didan: "reš-nōšéw fréle"
+          meaning_en: "He was full of himself"
+          meaning_he: "הוא פעם עף על עצמו"
+
+    - class: "III"
+      pretendant: "m-fr-y"
+      bases:
+        realis: "mafroy"
+        irrealis: "mafre"
+        past: "məfre"
+        imperative: "məfri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cause fly, to let fly"
+          meaning_he: "להעיף"
+
+- root: "g-d-l"
+  stems:
+    - class: "III"
+      pretendant: "m-gd-l"
+      bases:
+        realis: "magdol"
+        irrealis: "magdəl"
+        past: "məgdil"
+        imperative: "məgdul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to freeze"
+          meaning_he: "לקפוא"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to freeze"
+          meaning_he: "להקפיא"
+
+- root: "g-nd-r"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "gandor"
+        irrealis: "gandər"
+        past: "gəndir"
+        imperative: "gəndur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to roll"
+          meaning_he: "להתגלגל"
+
+    - class: "Q-III"
+      pretendant: "mg-nd-r"
+      bases:
+        realis: "mgandor"
+        irrealis: "mgandər"
+        past: "mgəndir"
+        imperative: "mgəndur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to roll"
+          meaning_he: "לגלגל"
+
+- root: "g-n-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ganow"
+        irrealis: "ganəw"
+        past: "gniw"
+        imperative: "gnuw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to steal"
+          meaning_he: "לגנוב"
+
+- root: "g-r-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "garoš"
+        irrealis: "garəš"
+        past: "griš"
+        imperative: "gruš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to pull"
+          meaning_he: "למשוך"
+
+    - class: "III"
+      pretendant: "m-gr-š"
+      bases:
+        realis: "magroš"
+        irrealis: "magrəš"
+        past: "məgriš"
+        imperative: "məgruš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to prolong"
+          meaning_he: "להתמשך"
+
+- root: "g-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "garoy"
+        irrealis: "gare"
+        past: "gre"
+        imperative: "gri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to cut hair of oneself"
+          meaning_he: "להסתפר, להתגלח"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cut hair of someone"
+          meaning_he: "לספר, לגלח"
+
+- root: "g-y-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "giyas"
+        irrealis: "ges"
+        past: "gis"
+        imperative: "gus"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to tire oneself"
+          meaning_he: "להתעייף"
+
+    - class: "III"
+      pretendant: "m-g-s"
+      bases:
+        realis: "magos"
+        irrealis: "magəs"
+        past: "mgis"
+        imperative: "mgus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to tire"
+          meaning_he: "לעייף"
+
+- root: "h-q-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "haqoy"
+        irrealis: "haqe"
+        past: "qe"
+        imperative: "qi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to speak"
+          meaning_he: "לדבר"
+
+    - class: "III"
+      pretendant: "m-q-y"
+      bases:
+        realis: "maqoy"
+        irrealis: "maqe"
+        past: "mqe"
+        imperative: "mqi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to converse"
+          meaning_he: "לשוחח"
+
+- root: "h-w-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "hiwal"
+        irrealis: "hol"
+        past: "wil"
+        imperative: "hol"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to give"
+          meaning_he: "לתת"
+
+- root: "h-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "hawoy"
+        irrealis: "hawe"
+        past: "we"
+        imperative: "wi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be"
+          meaning_he: "להיות"
+
+- root: "j-g-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "jagor"
+        irrealis: "jagər"
+        past: "jgir"
+        imperative: "jgur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be angry"
+          meaning_he: "לכעוס"
+
+    - class: "III"
+      pretendant: "m-jg-r"
+      bases:
+        realis: "majgor"
+        irrealis: "majgər"
+        past: "məjgir"
+        imperative: "məjgur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make angry"
+          meaning_he: "להכעיס"
+
+- root: "j-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "jaroy"
+        irrealis: "jare"
+        past: "jre"
+        imperative: "jri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to leak"
+          meaning_he: "לנזול"
+
+- root: "j-w-b"
+  stems:
+    - class: "I"
+      bases:
+        realis: "jiwab"
+        irrealis: "job"
+        past: "jwib"
+        imperative: "jub"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to answer"
+          meaning_he: "לענות"
+
+- root: "j-y-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "jiyar"
+        irrealis: "jer"
+        past: "jir"
+        imperative: "jur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to pee"
+          meaning_he: "להשתין"
+
+- root: "k-m-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kamoy"
+        irrealis: "kame"
+        past: "kme"
+        imperative: "kmi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become black"
+          meaning_he: "להשתחר"
+
+    - class: "III"
+      pretendant: "m-km-y"
+      bases:
+        realis: "makmoy"
+        irrealis: "makme"
+        past: "məkme"
+        imperative: "məkmi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to blacken"
+          meaning_he: "להשחיר"
+
+- root: "k-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "karoy"
+        irrealis: "kare"
+        past: "kre"
+        imperative: "kri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to shorten oneself"
+          meaning_he: "להתקצר"
+
+    - class: "III"
+      pretendant: "m-kr-y"
+      bases:
+        realis: "makroy"
+        irrealis: "makre"
+        past: "məkre"
+        imperative: "məkri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to shorten something"
+          meaning_he: "לקצר"
+
+- root: "k-w-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kiwaš"
+        irrealis: "koš"
+        past: "kwiš"
+        imperative: "kuš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to go down"
+          meaning_he: "לרדת"
+
+    - class: "III"
+      pretendant: "m-kw-š"
+      bases:
+        realis: "makwoš"
+        irrealis: "makwəš"
+        past: "məkwiš"
+        imperative: "məkwuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take down"
+          meaning_he: "להוריד"
+
+- root: "k-x-k"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kaxok"
+        irrealis: "kaxək"
+        past: "kxik"
+        imperative: "kxuk"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to lough"
+          meaning_he: "לצחוק"
+
+    - class: "III"
+      pretendant: "m-kx-k"
+      bases:
+        realis: "makxok"
+        irrealis: "makxək"
+        past: "məkxik"
+        imperative: "məkxuk"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make lough"
+          meaning_he: "להצחיק"
+
+- root: "l-t-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "latox"
+        irrealis: "latəx"
+        past: "ltix"
+        imperative: "ltux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to glue oneself"
+          meaning_he: "להידבק"
+
+    - class: "III"
+      pretendant: "m-lt-x"
+      bases:
+        realis: "maltox"
+        irrealis: "maltəx"
+        past: "məltix"
+        imperative: "məltux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to stick something"
+          meaning_he: "להדביק"
+
+- root: "l-w-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "liwaš"
+        irrealis: "lawəš"
+        past: "lwiš"
+        imperative: "lwuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to dress up"
+          meaning_he: "להתלבש"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to dress oneself"
+          meaning_he: "ללבוש"
+
+    - class: "III"
+      pretendant: "m-lb-š"
+      bases:
+        realis: "malboš"
+        irrealis: "malbəš"
+        past: "məlbiš"
+        imperative: "məlbuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to dress someone up"
+          meaning_he: "להלביש"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to put clothes on someone"
+          meaning_he: "להלביש"
+
+- root: "l-y-j"
+  stems:
+    - class: "I"
+      bases:
+        realis: "liyaj"
+        irrealis: "lej"
+        past: "lij"
+        imperative: "luj"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to tread, to step on"
+          meaning_he: "לדרוך"
+
+- root: "l-y-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "liyaš"
+        irrealis: "leš"
+        past: "liš"
+        imperative: "luš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to knead"
+          meaning_he: "ללוש"
+
+- root: "m-h-n"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mahon"
+        irrealis: "mahən"
+        past: "mhin"
+        imperative: "mhun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to give an excuse"
+          meaning_he: "לתרץ"
+
+- root: "m-h-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mahoy"
+        irrealis: "mahe"
+        past: "mhe"
+        imperative: "mhi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to erase"
+          meaning_he: "להימחק"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be erased"
+          meaning_he: "למחוק"
+
+- root: "m-l-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "maloy"
+        irrealis: "male"
+        past: "mle"
+        imperative: "mli"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fill"
+          meaning_he: "למלא"
+
+- root: "m-r-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "marol"
+        irrealis: "marəl"
+        past: "mril"
+        imperative: "mrul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become bitter"
+          meaning_he: "להתמרר"
+
+    - class: "III"
+      pretendant: "m-mr-l"
+      bases:
+        realis: "mamrol"
+        irrealis: "mamrəl"
+        past: "məmril"
+        imperative: "məmrul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to embitter"
+          meaning_he: "להמריר"
+
+- root: "m-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "maroy"
+        irrealis: "mare"
+        past: "mre"
+        imperative: "mri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to feel pain"
+          meaning_he: "לכאוב"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to suffer"
+          meaning_he: "לסבול"
+
+- root: "m-s-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "masoy"
+        irrealis: "mase"
+        past: "mse"
+        imperative: "msi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to wash clothes"
+          meaning_he: "לכבס"
+
+- root: "m-ṣ-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "maṣoy"
+        irrealis: "maṣe"
+        past: "mṣe"
+        imperative: "mṣi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be able"
+          meaning_he: "ליכול (להיות יכול)"
+
+- root: "m-š-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mašox"
+        irrealis: "mašəx"
+        past: "mšix"
+        imperative: "mšux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to smear"
+          meaning_he: "למרוח"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to anoint"
+          meaning_he: "למשוח"
+
+- root: "m-š-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mašox"
+        irrealis: "mašəx"
+        past: "mšix"
+        imperative: "mšux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to pull slightly"
+          meaning_he: "למשוך קליל"
+
+- root: "m-š-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mašoy"
+        irrealis: "maše"
+        past: "mše"
+        imperative: "mši"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to wipe"
+          meaning_he: "לנגב"
+
+- root: "m-t-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "matoy"
+        irrealis: "mate"
+        past: "mte"
+        imperative: "mti"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to arrive"
+          meaning_he: "להגיע"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to reach"
+          meaning_he: "להגיע"
+
+- root: "m-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "mawoy"
+        irrealis: "mawe"
+        past: "mwe"
+        imperative: "mwi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become blue"
+          meaning_he: "להכחיל (עצמי)"
+
+    - class: "III"
+      pretendant: "m-mw-y"
+      bases:
+        realis: "mamwoy"
+        irrealis: "mamwe"
+        past: "məmwe"
+        imperative: "məmwi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make blue"
+          meaning_he: "לגרום להכחיל"
+
+- root: "n-d-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "nadoy"
+        irrealis: "nade"
+        past: "nde"
+        imperative: "ndi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sign"
+          meaning_he: "לחתום"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to seal"
+          meaning_he: "לחתום"
+
+- root: "n-h-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "nahor"
+        irrealis: "nahər"
+        past: "nhir"
+        imperative: "nhur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to illuminate"
+          meaning_he: "להאיר"
+
+    - class: "III"
+      pretendant: "m-nh-r"
+      bases:
+        realis: "manhor"
+        irrealis: "manhər"
+        past: "mənhir"
+        imperative: "mənhur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to turn on an electrical device"
+          meaning_he: "להדליק מכשיר חשמלי"
+
+- root: "n-mn-m"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "namnom"
+        irrealis: "namnəm"
+        past: "nəmnim"
+        imperative: "nəmnum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to nap"
+          meaning_he: "לנמנם"
+
+- root: "n-p-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "napox"
+        irrealis: "napəx"
+        past: "npix"
+        imperative: "npux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to vomit"
+          meaning_he: "להקיא"
+
+- root: "n-p-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "napoy"
+        irrealis: "nape"
+        past: "npe"
+        imperative: "npi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sift, to filter"
+          meaning_he: "לנפות, לסנן"
+
+- root: "n-q-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naqol"
+        irrealis: "naqəl"
+        past: "nqil"
+        imperative: "nqul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become thin"
+          meaning_he: "להדקק"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to lose weight"
+          meaning_he: "להרזות"
+
+    - class: "III"
+      pretendant: "m-q-l"
+      bases:
+        realis: "maqol"
+        irrealis: "maqəl"
+        past: "mqil"
+        imperative: "mqul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make thin"
+          meaning_he: "לדקק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make lose weight"
+          meaning_he: "להרזות"
+
+- root: "n-š-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "našoq"
+        irrealis: "našəq"
+        past: "nšiq"
+        imperative: "nšuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to kiss"
+          meaning_he: "לנשק"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to make out"
+          meaning_he: "להתנשק"
+
+- root: "n-w-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "niwax"
+        irrealis: "nawəx"
+        past: "nwix"
+        imperative: "nwux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to bark"
+          meaning_he: "לנבוח"
+
+- root: "n-x-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naxol"
+        irrealis: "naxəl"
+        past: "nxil"
+        imperative: "nxul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sort"
+          meaning_he: "למיין"
+
+- root: "n-x-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naxop"
+        irrealis: "naxəp"
+        past: "nxip"
+        imperative: "nxup"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be ashamed"
+          meaning_he: "להתבייש"
+
+    - class: "III"
+      pretendant: "m-nx-p"
+      bases:
+        realis: "manxop"
+        irrealis: "manxəp"
+        past: "mənxip"
+        imperative: "mənxup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to shame"
+          meaning_he: "לבייש"
+
+- root: "n-y-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "niyam"
+        irrealis: "nem"
+        past: "nim"
+        imperative: "num"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to sleep"
+          meaning_he: "לישון"
+
+    - class: "III"
+      pretendant: "m-n-m"
+      bases:
+        realis: "manom"
+        irrealis: "manəm"
+        past: "mnim"
+        imperative: "mnum"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to anesthetize, to make sleep"
+          meaning_he: "להרדים"
+
+- root: "n-y-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "niyax"
+        irrealis: "nex"
+        past: "nix"
+        imperative: "nux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to rest"
+          meaning_he: "לנוח"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to relax"
+          meaning_he: "להירגע"
+
+    - class: "III"
+      pretendant: "m-n-x"
+      bases:
+        realis: "manox"
+        irrealis: "manəx"
+        past: "mnix"
+        imperative: "mnux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to let go"
+          meaning_he: "להניח (למשהו)"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to relax"
+          meaning_he: "להרגיע"
+      phrases:
+        - lishan_didan: "əlhá manə́x"
+          meaning_en: "R.I.P."
+          meaning_he: "ז\\\"ל"
+
+- root: "p-č-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pačoy"
+        irrealis: "pače"
+        past: "pče"
+        imperative: "pči"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to squash"
+          meaning_he: "למעוך"
+
+- root: "p-h-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pahor"
+        irrealis: "pahər"
+        past: "phir"
+        imperative: "phur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to yawn"
+          meaning_he: "לפהק"
+
+- root: "p-lp-l"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "palpol"
+        irrealis: "palpəl"
+        past: "pəlpil"
+        imperative: "pəlpul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sprinkle"
+          meaning_he: "לבזור, לבזוק, לפזר, לפורר לתוך משהו"
+
+- root: "p-l-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "palot"
+        irrealis: "palət"
+        past: "plit"
+        imperative: "plut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to exit"
+          meaning_he: "לצאת"
+
+    - class: "III"
+      pretendant: "m-pl-t"
+      bases:
+        realis: "maplot"
+        irrealis: "maplət"
+        past: "məplit"
+        imperative: "məplut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take out"
+          meaning_he: "להוציא"
+
+- root: "p-l-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "palox"
+        irrealis: "paləx"
+        past: "plix"
+        imperative: "plux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to open"
+          meaning_he: "לפתוח"
+
+- root: "p-l-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paloy"
+        irrealis: "pale"
+        past: "ple"
+        imperative: "pli"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to divide"
+          meaning_he: "לחלק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to distribute"
+          meaning_he: "לחלק"
+
+- root: "p-q-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paqoy"
+        irrealis: "paqe"
+        past: "pqe"
+        imperative: "pqi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to explode"
+          meaning_he: "להתפוצץ"
+
+- root: "p-rt-f"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "partof"
+        irrealis: "partəf"
+        past: "pərtif"
+        imperative: "pərtuf"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to throw"
+          meaning_he: "לזרוק"
+
+- root: "p-r-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paroq"
+        irrealis: "parəq"
+        past: "priq"
+        imperative: "pruq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to finish"
+          meaning_he: "לסיים"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to end"
+          meaning_he: "להסתיים"
+
+    - class: "III"
+      pretendant: "m-pr-q"
+      bases:
+        realis: "maproq"
+        irrealis: "maprəq"
+        past: "məpriq"
+        imperative: "məpruq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to complete"
+          meaning_he: "להשלים"
+
+- root: "p-r-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paros"
+        irrealis: "parəs"
+        past: "pris"
+        imperative: "prus"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to span oneself"
+          meaning_he: "להתפרשׂ"
+
+    - class: "III"
+      pretendant: "m-pr-s"
+      bases:
+        realis: "mapros"
+        irrealis: "maprəs"
+        past: "məpris"
+        imperative: "məprus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to spread something out"
+          meaning_he: "לפרושׂ"
+
+- root: "p-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "parox"
+        irrealis: "parəx"
+        past: "prix"
+        imperative: "prux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to crush"
+          meaning_he: "לפורר לפירורים"
+
+- root: "p-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paroy"
+        irrealis: "pare"
+        past: "pre"
+        imperative: "pri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to split open"
+          meaning_he: "לפעור"
+
+- root: "p-ṣ-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "paṣox"
+        irrealis: "paṣəx"
+        past: "pṣix"
+        imperative: "pṣux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be happy"
+          meaning_he: "לשמוח"
+
+    - class: "III"
+      pretendant: "m-pṣ-x"
+      bases:
+        realis: "mapṣox"
+        irrealis: "mapṣəx"
+        past: "məpṣix"
+        imperative: "məpṣux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cheer up"
+          meaning_he: "לשמח"
+
+- root: "p-š-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pašor"
+        irrealis: "pašər"
+        past: "pšir"
+        imperative: "pšur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to thaw oneself"
+          meaning_he: "לפשור"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to melt oneself"
+          meaning_he: "להמס"
+
+    - class: "III"
+      pretendant: "m-pš-r"
+      bases:
+        realis: "mapšor"
+        irrealis: "mapšər"
+        past: "məpšir"
+        imperative: "məpšur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to thaw"
+          meaning_he: "להפשיר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to melt down"
+          meaning_he: "להמיס"
+
+- root: "p-š-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pašot"
+        irrealis: "pašət"
+        past: "pšit"
+        imperative: "pšut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to undress oneself"
+          meaning_he: "להתפשט"
+
+    - class: "III"
+      pretendant: "m-pš-t"
+      bases:
+        realis: "mapšot"
+        irrealis: "mapšət"
+        past: "məpšit"
+        imperative: "məpšut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to undress someone"
+          meaning_he: "להפשיט"
+
+- root: "p-š-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pašox"
+        irrealis: "pašəx"
+        past: "pšix"
+        imperative: "pšux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to stretch your body"
+          meaning_he: "להתמתח"
+
+- root: "p-š-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pašoy"
+        irrealis: "paše"
+        past: "pše"
+        imperative: "pši"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to blow softly"
+          meaning_he: "לנפוח חרישית"
+
+- root: "p-y-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "piyal"
+        irrealis: "pel"
+        past: "pil"
+        imperative: "pul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to fall"
+          meaning_he: "ליפול"
+
+    - class: "III"
+      pretendant: "m-p-l"
+      bases:
+        realis: "mapol"
+        irrealis: "mapəl"
+        past: "mpil"
+        imperative: "mpul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make fall"
+          meaning_he: "להפיל"
+
+- root: "p-y-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "piyar"
+        irrealis: "per"
+        past: "pir"
+        imperative: "pur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to pass"
+          meaning_he: "לעבור"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to cross"
+          meaning_he: "לחצות"
+
+    - class: "III"
+      pretendant: "m-p-r"
+      bases:
+        realis: "mapor"
+        irrealis: "mapər"
+        past: "mpir"
+        imperative: "mpur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to transfer"
+          meaning_he: "להעביר"
+
+- root: "p-y-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "piyaš"
+        irrealis: "peš"
+        past: "piš"
+        imperative: "puš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to stay"
+          meaning_he: "להישאר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to "
+          meaning_he: "להניח"
+      idioms:
+        - lishan_didan: "sər pyš"
+          meaning_en: "to be stunned"
+          meaning_he: "להידהם"
+
+- root: "q-b-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qabol"
+        irrealis: "qabəl"
+        past: "qbil"
+        imperative: "qbul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to receive"
+          meaning_he: "לקבל"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to accept, to agree"
+          meaning_he: "להסכים"
+
+- root: "q-l-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qalol"
+        irrealis: "qaləl"
+        past: "qlil"
+        imperative: "qlul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become light (weight)"
+          meaning_he: "להפוך לקל (משקל, עצמי)"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become easy (not weight, to handle)"
+          meaning_he: "להפוך לקל להתמודדות (עצמי)"
+
+    - class: "III"
+      pretendant: "m-ql-l"
+      bases:
+        realis: "maqlol"
+        irrealis: "maqləl"
+        past: "məqlil"
+        imperative: "məqlul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lighten (weight)"
+          meaning_he: "להפוך משהו לקל (משקל)"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make easy (not weight, to handle)"
+          meaning_he: "להפוך משהו לקל (לא משקל, להתמודדות)"
+
+- root: "q-l-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qalop"
+        irrealis: "qaləp"
+        past: "qlip"
+        imperative: "qlup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to peel"
+          meaning_he: "לקלף"
+
+- root: "q-mṣ-n"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "qamṣon"
+        irrealis: "qamṣən"
+        past: "qmṣin"
+        imperative: "qəmṣun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be stingy"
+          meaning_he: "להתקמצן"
+
+- root: "q-m-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qamoy"
+        irrealis: "qame"
+        past: "qme"
+        imperative: "qmi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to high"
+          meaning_he: "לגבוה"
+
+    - class: "III"
+      pretendant: "m-qm-y"
+      bases:
+        realis: "maqmoy"
+        irrealis: "maqme"
+        past: "məqme"
+        imperative: "məqmi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to highten"
+          meaning_he: "להגביה"
+
+- root: "q-n-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qanoš"
+        irrealis: "qanəš"
+        past: "qniš"
+        imperative: "qnuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sweep"
+          meaning_he: "לטאטא"
+
+- root: "q-n-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qanoy"
+        irrealis: "qane"
+        past: "qne"
+        imperative: "qni"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become green"
+          meaning_he: "להתיירק"
+
+    - class: "III"
+      pretendant: "m-qn-y"
+      bases:
+        realis: "maqnoy"
+        irrealis: "maqne"
+        past: "məqne"
+        imperative: "məqni"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make green"
+          meaning_he: "להפוך (משהו) לירוק"
+
+- root: "q-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qarox"
+        irrealis: "qarəx"
+        past: "qrix"
+        imperative: "qrux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to fade"
+          meaning_he: "לדהות"
+
+    - class: "III"
+      pretendant: "m-qr-x"
+      bases:
+        realis: "maqrox"
+        irrealis: "maqrəx"
+        past: "məqrix"
+        imperative: "məqruḫ"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fade"
+          meaning_he: "להדהות"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to rub clean"
+          meaning_he: "לנקות כליל"
+
+- root: "q-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qaroy"
+        irrealis: "qare"
+        past: "qre"
+        imperative: "qri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to read"
+          meaning_he: "לקרוא"
+
+- root: "q-t-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qator"
+        irrealis: "qatər"
+        past: "qtir"
+        imperative: "qtur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to tie"
+          meaning_he: "לקשור"
+
+- root: "q-t-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qatoy"
+        irrealis: "qate"
+        past: "qte"
+        imperative: "qti"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to amputate"
+          meaning_he: "לקטוע"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get amputated"
+          meaning_he: "להקטע"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cut"
+          meaning_he: "לחתוך"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get cut"
+          meaning_he: "להיחתך"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to slice"
+          meaning_he: "לפרוס"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get sliced"
+          meaning_he: "להיפרס"
+
+- root: "q-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qawoy"
+        irrealis: "qawe"
+        past: "qwe"
+        imperative: "qwi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to strengthen oneself"
+          meaning_he: "להתחזק"
+
+    - class: "III"
+      pretendant: "m-qw-y"
+      bases:
+        realis: "maqwoy"
+        irrealis: "maqwe"
+        past: "məqwe"
+        imperative: "məqwi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to strengthen"
+          meaning_he: "לחזק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make strong"
+          meaning_he: "לחזק"
+
+- root: "q-y-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qiyam"
+        irrealis: "qem"
+        past: "qim"
+        imperative: "qum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to stand up"
+          meaning_he: "לקום"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become established"
+          meaning_he: "להתווסד"
+
+    - class: "III"
+      pretendant: "m-q-m"
+      bases:
+        realis: "maqom"
+        irrealis: "maqəm"
+        past: "mqim"
+        imperative: "mqum"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make stand"
+          meaning_he: "להקים, להעמיד"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to establish"
+          meaning_he: "להקים, לייסד"
+
+- root: "q-y-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qiyap"
+        irrealis: "qep"
+        past: "qip"
+        imperative: "qup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to hit"
+          meaning_he: "לפגוע"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to offend"
+          meaning_he: "להעליב"
+
+- root: "q-y-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qiyar"
+        irrealis: "qer"
+        past: "qir"
+        imperative: "qur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to cool down"
+          meaning_he: "להתקרר"
+
+    - class: "III"
+      pretendant: "m-q-r"
+      bases:
+        realis: "maqor"
+        irrealis: "maqər"
+        past: "mqir"
+        imperative: "mqur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cool"
+          meaning_he: "לקרר"
+
+- root: "q-y-ṣ"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qiyaṣ"
+        irrealis: "qeṣ"
+        past: "qiṣ"
+        imperative: "quṣ"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cut short, to trim"
+          meaning_he: "לקצוץ, לגזום"
+
+- root: "r-b-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "raboy"
+        irrealis: "rabe"
+        past: "rbe"
+        imperative: "rbi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to multiply oneself, to increase oneself"
+          meaning_he: "להתרבות"
+
+    - class: "III"
+      pretendant: "m-rb-y"
+      bases:
+        realis: "marboy"
+        irrealis: "marbe"
+        past: "mərbe"
+        imperative: "mərbi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to multiply something, to increase something"
+          meaning_he: "להרבות"
+
+- root: "r-d-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "radox"
+        irrealis: "radəx"
+        past: "rdix"
+        imperative: "rdux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become boiled"
+          meaning_he: "לרתוח"
+
+    - class: "III"
+      pretendant: "m-rd-x"
+      bases:
+        realis: "mardox"
+        irrealis: "mardəx"
+        past: "mərdix"
+        imperative: "mərdux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to boil"
+          meaning_he: "להרתיח"
+
+- root: "r-h-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "rahot"
+        irrealis: "rahət"
+        past: "rhit"
+        imperative: "rhut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to ease"
+          meaning_he: "להרגיש הקלה"
+
+    - class: "III"
+      pretendant: "m-rh-t"
+      bases:
+        realis: "marhot"
+        irrealis: "marhət"
+        past: "mərhit"
+        imperative: "mərhut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ease"
+          meaning_he: "לגרום להרגשת הקלה"
+
+- root: "r-k-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "rakow"
+        irrealis: "rakəw"
+        past: "rkiw"
+        imperative: "rkuw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ride"
+          meaning_he: "לרכב"
+
+- root: "r-m-z"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ramoz"
+        irrealis: "raməz"
+        past: "rmiz"
+        imperative: "rmuz"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to wink (with an eye)"
+          meaning_he: "לקרוץ (עם העין)"
+
+- root: "r-p-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "rapoy"
+        irrealis: "rape"
+        past: "rpe"
+        imperative: "rpi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get bigger"
+          meaning_he: "לגדול (להגדיל ממדים)"
+
+    - class: "III"
+      pretendant: "m-rp-y"
+      bases:
+        realis: "marpoy"
+        irrealis: "marpe"
+        past: "mərpe"
+        imperative: "mərpi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make big"
+          meaning_he: "להגדיל"
+
+- root: "r-q-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "raqol"
+        irrealis: "raqəl"
+        past: "rqil"
+        imperative: "rqul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to dance"
+          meaning_he: "לרקוד"
+
+    - class: "III"
+      pretendant: "m-rq-l"
+      bases:
+        realis: "marqol"
+        irrealis: "marqəl"
+        past: "mərqil"
+        imperative: "mərqul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make dance"
+          meaning_he: "להרקיד"
+
+- root: "r-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "rawoy"
+        irrealis: "rawe"
+        past: "rwe"
+        imperative: "rwi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to grow up"
+          meaning_he: "להתבגר"
+
+    - class: "III"
+      pretendant: "m-rw-y"
+      bases:
+        realis: "marwoy"
+        irrealis: "marwe"
+        past: "mərwe"
+        imperative: "mərwi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make grow"
+          meaning_he: "לבגר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to raise"
+          meaning_he: "לגדל"
+
+- root: "r-y-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "riyaq"
+        irrealis: "req"
+        past: "riq"
+        imperative: "ruq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to spit"
+          meaning_he: "לירוק"
+
+- root: "r-y-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "riyas"
+        irrealis: "res"
+        past: "ris"
+        imperative: "rus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to press, to squeeze"
+          meaning_he: "ללחוץ, לסחוט"
+
+- root: "r-y-s"
+  stems:
+    - class: "III"
+      pretendant: "m-r-s"
+      bases:
+        realis: "maros"
+        irrealis: "marəs"
+        past: "mris"
+        imperative: "mrus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to spray, to sprinkle"
+          meaning_he: "לרסס, להתיז"
+
+- root: "r-y-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "riyaš"
+        irrealis: "reš"
+        past: "riš"
+        imperative: "ruš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to wake up"
+          meaning_he: "להתעורר"
+
+    - class: "III"
+      pretendant: "m-r-š"
+      bases:
+        realis: "maroš"
+        irrealis: "marəš"
+        past: "mriš"
+        imperative: "mruš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to wake someone up"
+          meaning_he: "להעיר"
+
+- root: "r-y-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "riyax"
+        irrealis: "rex"
+        past: "rix"
+        imperative: "rux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to smell"
+          meaning_he: "להפיץ ריח, להריח"
+
+    - class: "III"
+      pretendant: "m-r-x"
+      bases:
+        realis: "marox"
+        irrealis: "marəx"
+        past: "mrix"
+        imperative: "mrux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to smell, to sniff"
+          meaning_he: "להריח, להסניף"
+
+- root: "r-y-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "rayoy"
+        irrealis: "raye"
+        past: "rye"
+        imperative: "ryi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to graze"
+          meaning_he: "לרעות (עצמי)"
+
+    - class: "III"
+      pretendant: "m-ry-y"
+      bases:
+        realis: "maryoy"
+        irrealis: "mare"
+        past: "mərye"
+        imperative: "məryi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to herd"
+          meaning_he: "לרעות (צאן)"
+
+- root: "s-k-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sakor"
+        irrealis: "sakər"
+        past: "skir"
+        imperative: "skur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get drunk, to become intoxicated"
+          meaning_he: "להשתכר"
+
+    - class: "III"
+      pretendant: "m-sk-r"
+      bases:
+        realis: "maskor"
+        irrealis: "maskər"
+        past: "məskir"
+        imperative: "məskur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make drunk, to intoxicate"
+          meaning_he: "לשכר"
+
+- root: "s-k-r"
+  stems:
+    - class: "III"
+      pretendant: "m-sk-r"
+      bases:
+        realis: "maskor"
+        irrealis: "maskər"
+        past: "məskir"
+        imperative: "məskur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get lost"
+          meaning_he: "ללכת לאיבוד"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lose (something/someone)"
+          meaning_he: "לאבד"
+
+- root: "s-m-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "samoq"
+        irrealis: "saməq"
+        past: "smiq"
+        imperative: "smuq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to blush"
+          meaning_he: "להסמיק"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get red"
+          meaning_he: "להאדים (עצמי)"
+
+    - class: "III"
+      pretendant: "m-sm-q"
+      bases:
+        realis: "masmoq"
+        irrealis: "masməq"
+        past: "məsmik"
+        imperative: "məsmuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make blush"
+          meaning_he: "להסמיק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make red"
+          meaning_he: "לגרום להאדים"
+
+- root: "s-m-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "samox"
+        irrealis: "saməx"
+        past: "smix"
+        imperative: "smux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to wait"
+          meaning_he: "לחכות"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to stand"
+          meaning_he: "לעמוד"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to stop"
+          meaning_he: "לעצור"
+
+- root: "s-n-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sanəq"
+        irrealis: "sanəq"
+        past: "sniq"
+        imperative: "snuq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to need"
+          meaning_he: "להזדקק, להצטרך"
+
+    - class: "III"
+      pretendant: "m-sn-q"
+      bases:
+        realis: "masnoq"
+        irrealis: "masnəq"
+        past: "məsmiq"
+        imperative: "məsmuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to necessitate"
+          meaning_he: "להצריך"
+
+- root: "s-r-d"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sarod"
+        irrealis: "sarəd"
+        past: "srid"
+        imperative: "srud"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to shake"
+          meaning_he: "לנענע"
+
+- root: "s-r-g"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sarog"
+        irrealis: "sarəg"
+        past: "srig"
+        imperative: "srug"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to kint"
+          meaning_he: "לסרוג"
+
+- root: "s-r-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "saroq"
+        irrealis: "sarəq"
+        past: "sriq"
+        imperative: "sruq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to combe"
+          meaning_he: "לסרק"
+
+- root: "s-r-y"
+  stems:
+    - class: "III"
+      pretendant: "m-sr-y"
+      bases:
+        realis: "masroy"
+        irrealis: "masre"
+        past: "məsre"
+        imperative: "məsi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to stink"
+          meaning_he: "להסריח"
+
+- root: "s-t-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sator"
+        irrealis: "satər"
+        past: "stir"
+        imperative: "stur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to slap"
+          meaning_he: "לסטור"
+
+- root: "s-y-y"
+  stems:
+    - class: "III"
+      pretendant: "m-sy-y"
+      bases:
+        realis: "masyoy"
+        irrealis: "masye"
+        past: "məsye"
+        imperative: "məsyi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to help"
+          meaning_he: "לעזור, לסייע"
+
+- root: "ṣ-l-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣaloy"
+        irrealis: "ṣale"
+        past: "ṣle"
+        imperative: "ṣli"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to pray"
+          meaning_he: "להתפלל"
+
+- root: "ṣ-p-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣapoy"
+        irrealis: "ṣape"
+        past: "ṣpe"
+        imperative: "ṣpi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become filtered (liquid), to become strained (liquid)"
+          meaning_he: "להפוך למסונן (נוזל)"
+
+    - class: "III"
+      pretendant: "m-ṣp-y"
+      bases:
+        realis: "maṣpoy"
+        irrealis: "maṣpe"
+        past: "məṣpe"
+        imperative: "məṣpi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to strain (liquid), to filter (liquid)"
+          meaning_he: "לסנן (נוזל)"
+
+- root: "ṣ-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣarox"
+        irrealis: "ṣarəx"
+        past: "ṣrix"
+        imperative: "ṣrux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to scream"
+          meaning_he: "לצעוק"
+
+- root: "ṣ-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣaroy"
+        irrealis: "ṣare"
+        past: "ṣre"
+        imperative: "ṣri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to do evil"
+          meaning_he: "להרע"
+
+- root: "ṣ-y-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣiyam"
+        irrealis: "ṣem"
+        past: "ṣim"
+        imperative: "ṣum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to fast"
+          meaning_he: "לצום"
+
+- root: "š-k-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šakor"
+        irrealis: "šakər"
+        past: "škir"
+        imperative: "škur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to thank"
+          meaning_he: "להביע תודה"
+
+- root: "š-l-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šalop"
+        irrealis: "šaləp"
+        past: "šlip"
+        imperative: "šlup"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be fooled, to get deceived"
+          meaning_he: "להיות מרומה, להיות שעבדו עליך"
+
+    - class: "III"
+      pretendant: "m-šl-p"
+      bases:
+        realis: "mašlop"
+        irrealis: "mašləp"
+        past: "məšlip"
+        imperative: "məšlup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fool, to decive"
+          meaning_he: "לרמות, לעבוד על"
+
+- root: "š-l-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šalot"
+        irrealis: "šalət"
+        past: "šlit"
+        imperative: "šlut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to reign"
+          meaning_he: "למלוך"
+
+    - class: "III"
+      pretendant: "m-šl-t"
+      bases:
+        realis: "mašlot"
+        irrealis: "mašlət"
+        past: "məšlit"
+        imperative: "məšlut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to crown"
+          meaning_he: "להמליך"
+
+- root: "š-l-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šalox"
+        irrealis: "šaləx"
+        past: "šlix"
+        imperative: "šlux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take off (a piece of clothing) from yourself"
+          meaning_he: "להוריד (פריט לבוש) מעצמך"
+
+    - class: "III"
+      pretendant: "m-šl-x"
+      bases:
+        realis: "mašlox"
+        irrealis: "mašləx"
+        past: "məšlix"
+        imperative: "məšlux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take off (a piece of clothing) from someone else"
+          meaning_he: "להוריד (פריט לבוש) ממישהו"
+
+- root: "š-m-n"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šamən"
+        irrealis: "šəmən"
+        past: "šmin"
+        imperative: "šmun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to fatten"
+          meaning_he: "להשמין"
+
+    - class: "III"
+      pretendant: "m-šm-n"
+      bases:
+        realis: "mašman"
+        irrealis: "mašmən"
+        past: "məšmin"
+        imperative: "məšmun"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fatten"
+          meaning_he: "להשמין"
+
+- root: "š-m-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šamoy"
+        irrealis: "šame"
+        past: "šme"
+        imperative: "šmi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to hear"
+          meaning_he: "לשמוע"
+
+    - class: "III"
+      pretendant: "m-šm-y"
+      bases:
+        realis: "mašmoy"
+        irrealis: "mašme"
+        past: "məšme"
+        imperative: "məšmi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to play audio"
+          meaning_he: "להשמיע"
+
+- root: "š-nd-l"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "šandol"
+        irrealis: "šandəl"
+        past: "šəndil"
+        imperative: "šəndul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become disoriented, to become confused"
+          meaning_he: "להיות בהלם רגעי, להיות מבולבל"
+
+- root: "š-pš-p"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "šapšop"
+        irrealis: "šapšəp"
+        past: "šəpšip"
+        imperative: "šəpšup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to rub (repetedly)"
+          meaning_he: "לשפשף"
+
+- root: "š-q-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šaqol"
+        irrealis: "šaqəl"
+        past: "šqil"
+        imperative: "šqul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to buy"
+          meaning_he: "לקנות"
+
+- root: "š-r-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šaroq"
+        irrealis: "šarəq"
+        past: "šriq"
+        imperative: "šruq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to whisle"
+          meaning_he: "לשרוק"
+
+- root: "š-t-x"
+  stems:
+    - class: "III"
+      pretendant: "m-št-x"
+      bases:
+        realis: "šatox"
+        irrealis: "šatəx"
+        past: "štix"
+        imperative: "štux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to find"
+          meaning_he: "למצוא"
+
+- root: "š-t-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šatoy"
+        irrealis: "šate"
+        past: "šte"
+        imperative: "šti"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to lie down"
+          meaning_he: "לשכב"
+
+    - class: "III"
+      pretendant: "m-št-y"
+      bases:
+        realis: "maštoy"
+        irrealis: "mašte"
+        past: "məšte"
+        imperative: "məšti"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lay down"
+          meaning_he: "להשכיב"
+
+- root: "š-t-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šatoy"
+        irrealis: "šate"
+        past: "šte"
+        imperative: "šti"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to drink"
+          meaning_he: "לשתות"
+
+- root: "š-w-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šawoq"
+        irrealis: "šoq"
+        past: "šwiq"
+        imperative: "šuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to leave something"
+          meaning_he: "להשאיר"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make remain, to preserve"
+          meaning_he: "להשאיר, לשמר"
+
+- root: "š-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šawoy"
+        irrealis: "šawe"
+        past: "šwe"
+        imperative: "šwi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to equalize"
+          meaning_he: "לשוות, לאזן"
+
+- root: "š-xt-n"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "šaxton"
+        irrealis: "šaxtən"
+        past: "šəxtin"
+        imperative: "šəxtun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to get dirty"
+          meaning_he: "להתלכלך"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make dirty"
+          meaning_he: "ללכלך"
+
+- root: "š-x-n"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šaxon"
+        irrealis: "šaxən"
+        past: "šxin"
+        imperative: "šxun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to warm oneself"
+          meaning_he: "להתחמם"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to get a fever"
+          meaning_he: "לקבל חום"
+
+    - class: "III"
+      pretendant: "m-šx-n"
+      bases:
+        realis: "mašxon"
+        irrealis: "mašxən"
+        past: "məšnix"
+        imperative: "məšnux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to warm, to heat"
+          meaning_he: "לחמם"
+
+- root: "š-y-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šiyap"
+        irrealis: "šep"
+        past: "šip"
+        imperative: "šup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to rub"
+          meaning_he: "לחכך"
+
+- root: "š-y-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šiyaš"
+        irrealis: "šeš"
+        past: "šiš"
+        imperative: "šuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to swing"
+          meaning_he: "לנדנד"
+
+- root: "š-y-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šayoy"
+        irrealis: "šaye"
+        past: "šye"
+        imperative: "šyi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to go crazy, to lose oneself's mind"
+          meaning_he: "להשתגע"
+
+    - class: "III"
+      pretendant: "m-šy-y"
+      bases:
+        realis: "mašyoy"
+        irrealis: "mašye"
+        past: "məšye"
+        imperative: "məšyi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to drive someone crazy, to make someone lose their mind"
+          meaning_he: "לשגע"
+
+- root: "t-l-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taloš"
+        irrealis: "taləš"
+        past: "tliš"
+        imperative: "tluš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to pluck, to uproot"
+          meaning_he: "לתלוש, לעקור"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be plucked, to be uprooted"
+          meaning_he: "להתלש, להיעקר"
+
+- root: "t-nt-l"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "tantol"
+        irrealis: "tantəl"
+        past: "təntil"
+        imperative: "təntul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to get delayed"
+          meaning_he: "להתעקב"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to delay, to make wait"
+          meaning_he: "לעכב, לגרום למישהו לחכות"
+
+- root: "t-n-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "tanox"
+        irrealis: "tanəx"
+        past: "tnix"
+        imperative: "tnux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to feel good, to enjoy"
+          meaning_he: "להרגיש טוב, ליהנות"
+
+- root: "t-p-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "tapoy"
+        irrealis: "tape"
+        past: "tpe"
+        imperative: "tpi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bite (snake)"
+          meaning_he: "להכיש (נחש)"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sting (insect)"
+          meaning_he: "לעקוץ (חרק)"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ruthlessly bother, to ruthlessly annoy"
+          meaning_he: "לשגע, להציק"
+
+- root: "t-q-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taqol"
+        irrealis: "taqəl"
+        past: "tqil"
+        imperative: "tqul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to weigh"
+          meaning_he: "לשקול"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to weigh"
+          meaning_he: "לשקול"
+
+- root: "t-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taqor"
+        irrealis: "taqər"
+        past: "tqir"
+        imperative: "tqur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to touch"
+          meaning_he: "לגעת"
+
+- root: "t-q-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taqoy"
+        irrealis: "taqe"
+        past: "tqe"
+        imperative: "tqi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bother, to annoy"
+          meaning_he: "להציק"
+
+- root: "t-r-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taros"
+        irrealis: "tarəs"
+        past: "tris"
+        imperative: "trus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to fix"
+          meaning_he: "לתקן"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to fix oneself"
+          meaning_he: "להפוך למתוקן"
+
+- root: "t-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "taroy"
+        irrealis: "tare"
+        past: "tre"
+        imperative: "tri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to drive"
+          meaning_he: "לנהוג (ברכב)"
+
+- root: "t-y-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "tiyal"
+        irrealis: "tal"
+        past: "til"
+        imperative: "tul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to play"
+          meaning_he: "לשחק"
+
+    - class: "III"
+      pretendant: "m-t-l"
+      bases:
+        realis: "matol"
+        irrealis: "matəl"
+        past: "mtil"
+        imperative: "mtul"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make play"
+          meaning_he: "להביא לכדי משחק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make a game"
+          meaning_he: "לעשות משחק"
+
+- root: "w-r-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "warot"
+        irrealis: "warət"
+        past: "writ"
+        imperative: "wrut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to fart"
+          meaning_he: "להפליץ"
+
+- root: "w-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "warox"
+        irrealis: "warəx"
+        past: "wrix"
+        imperative: "wrux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to pave"
+          meaning_he: "לסלול"
+
+- root: "w-y-š"
+  stems:
+    - class: "I"
+      bases:
+        realis: "wiyaš"
+        irrealis: "weš"
+        past: "wiš"
+        imperative: "wuš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to dry"
+          meaning_he: "להתייבש"
+
+    - class: "III"
+      pretendant: "m-b-š"
+      bases:
+        realis: "maboš"
+        irrealis: "mabəš"
+        past: "mbiš"
+        imperative: "mbuš"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to dry"
+          meaning_he: "לייבש"
+
+- root: "x-d-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xador"
+        irrealis: "xadər"
+        past: "xdir"
+        imperative: "xdur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be present, to become, to exist"
+          meaning_he: "להיות נוכח, להתהוות, להתקיים"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to happen"
+          meaning_he: "לקרות"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to go about"
+          meaning_he: "לשוטט"
+
+    - class: "III"
+      pretendant: "m-xd-r"
+      bases:
+        realis: "maxdor"
+        irrealis: "maxdər"
+        past: "məxdir"
+        imperative: "məxdur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take to a walk, to lead around"
+          meaning_he: "לקחת להליכה, שיטוט, סיבוב, טיול קצר"
+
+- root: "x-l-b"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xalob"
+        irrealis: "xaləb"
+        past: "xlib"
+        imperative: "xlub"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to gain, to profit"
+          meaning_he: "להרוויח"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to win"
+          meaning_he: "לנצח"
+
+    - class: "III"
+      pretendant: "m-xl-b"
+      bases:
+        realis: "maxlob"
+        irrealis: "maxləb"
+        past: "məxlib"
+        imperative: "məxlub"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lose"
+          meaning_he: "להפסיד"
+
+- root: "x-l-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xalol"
+        irrealis: "xaləl"
+        past: "xlil"
+        imperative: "xlul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to get washed"
+          meaning_he: "להישטף"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to wash"
+          meaning_he: "לשטוף"
+
+- root: "x-l-ṣ"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xaloṣ"
+        irrealis: "xaləṣ"
+        past: "xliṣ"
+        imperative: "xluṣ"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to get rescued"
+          meaning_he: "להינצל"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to escape"
+          meaning_he: "לברוח, להיחלץ"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to rescue, to save"
+          meaning_he: "להציל, לחלץ"
+
+- root: "x-l-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xalow"
+        irrealis: "xaləw"
+        past: "xliw"
+        imperative: "xluw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to milk"
+          meaning_he: "לחלוב"
+
+- root: "x-l-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xaloy"
+        irrealis: "xale"
+        past: "xle"
+        imperative: "xli"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become sweet"
+          meaning_he: "להתמתק"
+
+    - class: "III"
+      pretendant: "m-xl-y"
+      bases:
+        realis: "maxloy"
+        irrealis: "maxle"
+        past: "məxle"
+        imperative: "məxli"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sweeten"
+          meaning_he: "להמתיק"
+
+- root: "x-m-j"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xamoj"
+        irrealis: "xaməj"
+        past: "xmij"
+        imperative: "xmuj"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cast the five, to thrust the five"
+          meaning_he: "להטיל חמש, לזרוק חמסה"
+
+- root: "x-n-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xanoq"
+        irrealis: "xanəq"
+        past: "xniq"
+        imperative: "xnuq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to suffocate"
+          meaning_he: "להיחנק"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sufficate someone"
+          meaning_he: "לחנוק"
+
+- root: "x-r-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xarow"
+        irrealis: "xarəw"
+        past: "xriw"
+        imperative: "xruw"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be ruined"
+          meaning_he: "להיהרס, להיחרב"
+
+    - class: "III"
+      pretendant: "m-xr-w"
+      bases:
+        realis: "maxrow"
+        irrealis: "maxrəw"
+        past: "məxriw"
+        imperative: "məxruw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to ruin"
+          meaning_he: "להרוס, להחריב"
+
+- root: "x-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xaroy"
+        irrealis: "xare"
+        past: "xre"
+        imperative: "xri"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to poop"
+          meaning_he: "לחרבן"
+
+- root: "x-š-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xašox"
+        irrealis: "xašəx"
+        past: "xšix"
+        imperative: "xšux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become dark"
+          meaning_he: "להחשיך"
+
+    - class: "III"
+      pretendant: "m-xš-x"
+      bases:
+        realis: "maxšox"
+        irrealis: "maxšəx"
+        past: "məxšix"
+        imperative: "məxšux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to darken, to make dark"
+          meaning_he: "להחשיך, להכהות"
+
+- root: "x-w-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xiwar"
+        irrealis: "xawər"
+        past: "xwir"
+        imperative: "xwur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become pale"
+          meaning_he: "להחוויר"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to become white"
+          meaning_he: "להלבין (עצמי)"
+
+    - class: "III"
+      pretendant: "m-xw-r"
+      bases:
+        realis: "maxwor"
+        irrealis: "maxwər"
+        past: "məxwir"
+        imperative: "məxwur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make white"
+          meaning_he: "לגרום להלבין"
+
+- root: "x-w-y"
+  stems:
+    - class: "III"
+      pretendant: "m-xw-y"
+      bases:
+        realis: "maxwoy"
+        irrealis: "maxwe"
+        past: "məxwe"
+        imperative: "məxwi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to show"
+          meaning_he: "להראות"
+
+- root: "x-y-k"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xiyak"
+        irrealis: "xek"
+        past: "xik"
+        imperative: "xuk"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to itch"
+          meaning_he: "להתגרד"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to scratch"
+          meaning_he: "לגרד"
+
+- root: "x-y-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xiyap"
+        irrealis: "xep"
+        past: "xip"
+        imperative: "xup"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to shower"
+          meaning_he: "להתקלח"
+
+- root: "x-y-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xayoy"
+        irrealis: "xaye"
+        past: "xye"
+        imperative: "xyi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to live"
+          meaning_he: "לחיות"
+
+    - class: "III"
+      pretendant: "m-xy-y"
+      bases:
+        realis: "maxyoy"
+        irrealis: "maxye"
+        past: "məxye"
+        imperative: "məxyi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to revive, to bring back to life"
+          meaning_he: "להחיות, להחזיר לחיים"
+
+- root: "x-z-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xazoy"
+        irrealis: "xaze"
+        past: "xze"
+        imperative: "xzi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to see"
+          meaning_he: "לראות"
+
+- root: "y-l-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yalop"
+        irrealis: "yaləp"
+        past: "ylip"
+        imperative: "ylup"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to learn"
+          meaning_he: "ללמוד"
+
+    - class: "III"
+      pretendant: "m-l-p"
+      bases:
+        realis: "malop"
+        irrealis: "maləp"
+        past: "mlip"
+        imperative: "mlup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to teach"
+          meaning_he: "ללמד"
+
+- root: "y-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yaqor"
+        irrealis: "yaqər"
+        past: "yqir"
+        imperative: "yqur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become heavy"
+          meaning_he: "להפוך לכבד"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to burden"
+          meaning_he: "להכביד"
+
+    - class: "III"
+      pretendant: "m-q-r"
+      bases:
+        realis: "maqor"
+        irrealis: "maqər"
+        past: "mqir"
+        imperative: "mqur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make heavy"
+          meaning_he: "להפוך לכבד"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make difficult"
+          meaning_he: "לקשות"
+
+- root: "y-r-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yarom"
+        irrealis: "yarəm"
+        past: "yrim"
+        imperative: "yrum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to rise"
+          meaning_he: "להתרומם"
+
+    - class: "III"
+      pretendant: "m-r-m"
+      bases:
+        realis: "marom"
+        irrealis: "marəm"
+        past: "mrim"
+        imperative: "mrum"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lift"
+          meaning_he: "להרים"
+
+- root: "y-r-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yaroq"
+        irrealis: "yarəq"
+        past: "yriq"
+        imperative: "yruq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to run"
+          meaning_he: "לרוץ"
+
+    - class: "III"
+      pretendant: "m-r-q"
+      bases:
+        realis: "maroq"
+        irrealis: "marəq"
+        past: "mriq"
+        imperative: "mruq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make run"
+          meaning_he: "להריץ"
+
+- root: "y-r-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yarow"
+        irrealis: "yarəw"
+        past: "yriw"
+        imperative: "yruw"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to become mixed"
+          meaning_he: "להתערבב"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be sick in the stomach"
+          meaning_he: "להרגיש בבחילה"
+
+    - class: "III"
+      pretendant: "m-r-w"
+      bases:
+        realis: "marow"
+        irrealis: "marəw"
+        past: "mriw"
+        imperative: "mruw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to mix"
+          meaning_he: "לערבב"
+
+- root: "y-r-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yarow"
+        irrealis: "yarəw"
+        past: "yriw"
+        imperative: "yruw"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to interfere"
+          meaning_he: "להתערב"
+
+    - class: "III"
+      pretendant: "m-r-w"
+      bases:
+        realis: "marow"
+        irrealis: "marəw"
+        past: "mriw"
+        imperative: "mruw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make interfere"
+          meaning_he: "לערב"
+
+- root: "y-r-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yarox"
+        irrealis: "yarəx"
+        past: "yrix"
+        imperative: "yrux"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to lengthen"
+          meaning_he: "להתארך"
+
+    - class: "III"
+      pretendant: "m-r-x"
+      bases:
+        realis: "marox"
+        irrealis: "marəx"
+        past: "mrix"
+        imperative: "mrux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make longer"
+          meaning_he: "להאריך"
+
+- root: "y-s-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yasoq"
+        irrealis: "yasəq"
+        past: "ysiq"
+        imperative: "ysuq"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to go up"
+          meaning_he: "לעלות"
+
+    - class: "III"
+      pretendant: "m-s-q"
+      bases:
+        realis: "masoq"
+        irrealis: "masəq"
+        past: "msiq"
+        imperative: "msuq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to raise"
+          meaning_he: "להעלות"
+
+- root: "y-s-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yasor"
+        irrealis: "yasər"
+        past: "ysir"
+        imperative: "ysur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to tie up"
+          meaning_he: "לכבול"
+
+- root: "y-t-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "yatow"
+        irrealis: "yatəw"
+        past: "ytiw"
+        imperative: "ytuw"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to sit"
+          meaning_he: "לשבת"
+
+    - class: "III"
+      pretendant: "m-t-w"
+      bases:
+        realis: "matow"
+        irrealis: "matəw"
+        past: "mtiw"
+        imperative: "mtuw"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make sit"
+          meaning_he: "להושיב"
+
+- root: "z-b-n"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zabon"
+        irrealis: "zabən"
+        past: "zbin"
+        imperative: "zbun"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sell"
+          meaning_he: "למכור"
+
+- root: "z-d-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zadoy"
+        irrealis: "zade"
+        past: "zde"
+        imperative: "zdi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to fear"
+          meaning_he: "לפחד"
+
+    - class: "III"
+      pretendant: "m-zd-y"
+      bases:
+        realis: "mazdoy"
+        irrealis: "mazde"
+        past: "məzde"
+        imperative: "məzdi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to scare, to frighten"
+          meaning_he: "להפחיד"
+
+- root: "z-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zaqor"
+        irrealis: "zaqər"
+        past: "zqir"
+        imperative: "zqur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to kint"
+          meaning_he: "לסרוג"
+
+- root: "z-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zaqor"
+        irrealis: "zaqər"
+        past: "zqir"
+        imperative: "zqur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to remember"
+          meaning_he: "לזכור"
+
+    - class: "III"
+      pretendant: "m-zq-r"
+      bases:
+        realis: "mazqor"
+        irrealis: "mazqər"
+        past: "məzqir"
+        imperative: "məzqur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make remember"
+          meaning_he: "להזכיר"
+
+- root: "z-r-p"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zarop"
+        irrealis: "zarəp"
+        past: "zrip"
+        imperative: "zrup"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to push"
+          meaning_he: "לדחוף"
+
+- root: "z-r-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "zaroy"
+        irrealis: "zare"
+        past: "zre"
+        imperative: "zri"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to sow"
+          meaning_he: "לזרוע"
+
+- root: "z-y-d"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ziyad"
+        irrealis: "zed"
+        past: "zid"
+        imperative: "zud"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be added"
+          meaning_he: "להווסף"
+
+    - class: "III"
+      pretendant: "m-z-d"
+      bases:
+        realis: "mazod"
+        irrealis: "mazəd"
+        past: "mzid"
+        imperative: "mzud"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to add"
+          meaning_he: "להוסיף"
+
+- root: "z-y-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ziyar"
+        irrealis: "zer"
+        past: "zir"
+        imperative: "zur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to small oneself"
+          meaning_he: "לקטון"
+
+    - class: "III"
+      pretendant: "m-z-r"
+      bases:
+        realis: "mazor"
+        irrealis: "mazər"
+        past: "mzir"
+        imperative: "mzur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make small"
+          meaning_he: "להקטין"
+
+- root: "ž-nd-r"
+  stems:
+    - class: "Q-I"
+      bases:
+        realis: "žandor"
+        irrealis: "žandər"
+        past: "žəndir"
+        imperative: "žəndur"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to gobble up"
+          meaning_he: "לבלוס"
