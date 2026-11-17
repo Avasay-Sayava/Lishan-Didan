@@ -334,8 +334,8 @@
       bases:
         realis: "bajboj"
         irrealis: "bajbəj"
-        past: "bəbjij"
-        imperative: "bəbjuj"
+        past: "bəjbij"
+        imperative: "bəjbuj"
       meanings:
         - transitivity: "intransitive"
           telicity: "atelic"
