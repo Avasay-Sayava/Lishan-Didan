@@ -261,33 +261,6 @@
           meaning_en: "to inform, to let know, to make known"
           meaning_he: "ליידע"
 
-- root: "∅-y-q"
-  stems:
-    - class: "I"
-      bases:
-        realis: "ayoq"
-        irrealis: "eq"
-        past: "iq"
-        imperative: "uq"
-      meanings:
-        - transitivity: "intransitive"
-          telicity: "atelic"
-          meaning_en: "to be narrow"
-          meaning_he: "להיות צר"
-
-    - class: "III"
-      pretendant: "m-y-q"
-      bases:
-        realis: "mayoq"
-        irrealis: "mayəq"
-        past: "myiq"
-        imperative: "myuq"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to narrow, to make narrow"
-          meaning_he: "להצר"
-
 - root: "∅-z-l"
   stems:
     - class: "I"
@@ -1666,6 +1639,20 @@
           meaning_en: "to seal"
           meaning_he: "לחתום"
 
+- root: "n-g-z"
+  stems:
+    - class: "I"
+      bases:
+        realis: "nagoz"
+        irrealis: "nagəz"
+        past: "ngiz"
+        imperative: "nguz"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to take a bite"
+          meaning_he: "לנגוס"
+
 - root: "n-h-r"
   stems:
     - class: "I"
@@ -1707,6 +1694,34 @@
           meaning_en: "to nap"
           meaning_he: "לנמנם"
 
+- root: "n-p-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "napos"
+        irrealis: "napəs"
+        past: "npis"
+        imperative: "npus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to breathe"
+          meaning_he: "לנשום"
+
+- root: "n-p-ṣ"
+  stems:
+    - class: "I"
+      bases:
+        realis: "napoṣ"
+        irrealis: "napəṣ"
+        past: "npiṣ"
+        imperative: "npuṣ"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to shake, to dust off"
+          meaning_he: "לנער"
+
 - root: "n-p-x"
   stems:
     - class: "I"
@@ -1746,8 +1761,8 @@
       meanings:
         - transitivity: "intransitive"
           telicity: "atelic"
-          meaning_en: "to become thin"
-          meaning_he: "להדקק"
+          meaning_en: "to become thin, to become narrow"
+          meaning_he: "להדקק, להפוך לצר"
         - transitivity: "intransitive"
           telicity: "atelic"
           meaning_en: "to lose weight"
@@ -1763,8 +1778,8 @@
       meanings:
         - transitivity: "transitive"
           telicity: "telic"
-          meaning_en: "to make thin"
-          meaning_he: "לדקק"
+          meaning_en: "to make thin, to make narrow"
+          meaning_he: "לדקק, להפוך לצר"
         - transitivity: "transitive"
           telicity: "telic"
           meaning_en: "to make lose weight"
@@ -1788,6 +1803,20 @@
           meaning_en: "to make out"
           meaning_he: "להתנשק"
 
+- root: "n-š-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "našox"
+        irrealis: "našəx"
+        past: "nšix"
+        imperative: "nšux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to bite (someone)"
+          meaning_he: "לנשוך (משיהו)"
+
 - root: "n-w-x"
   stems:
     - class: "I"
@@ -1801,20 +1830,6 @@
           telicity: "telic"
           meaning_en: "to bark"
           meaning_he: "לנבוח"
-
-- root: "n-x-l"
-  stems:
-    - class: "I"
-      bases:
-        realis: "naxol"
-        irrealis: "naxəl"
-        past: "nxil"
-        imperative: "nxul"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to sort"
-          meaning_he: "למיין"
 
 - root: "n-x-p"
   stems:
@@ -3136,6 +3151,20 @@
           meaning_en: "to necessitate"
           meaning_he: "להצריך"
 
+- root: "s-rs-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sarsot"
+        irrealis: "sarsət"
+        past: "srsit"
+        imperative: "srsut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to jolt"
+          meaning_he: "לטלטל"
+
 - root: "s-r-d"
   stems:
     - class: "I"
@@ -3147,7 +3176,7 @@
       meanings:
         - transitivity: "transitive"
           telicity: "telic"
-          meaning_en: "to shake"
+          meaning_en: "to sway"
           meaning_he: "לנענע"
 
 - root: "s-r-g"
