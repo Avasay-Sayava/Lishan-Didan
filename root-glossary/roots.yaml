@@ -3306,15 +3306,6 @@
           telicity: "atelic"
           meaning_en: "to become filtered (liquid), to become strained (liquid)"
           meaning_he: "להפוך למסונן (נוזל)"
-
-    - class: "III"
-      pretendant: "m-ṣp-y"
-      bases:
-        realis: "maṣpoy"
-        irrealis: "maṣpe"
-        past: "məṣpe"
-        imperative: "məṣpi"
-      meanings:
         - transitivity: "transitive"
           telicity: "telic"
           meaning_en: "to strain (liquid), to filter (liquid)"
