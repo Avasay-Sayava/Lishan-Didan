@@ -16,20 +16,6 @@
           meaning_en: "to want, to desire"
           meaning_he: "לרצות"
 
-- root: "∅-d-b"
-  stems:
-    - class: "I"
-      bases:
-        realis: "adob"
-        irrealis: "adəb"
-        past: "edib"
-        imperative: "edub"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to chastise, to punish"
-          meaning_he: "להעניש"
-
 - root: "∅-d-y"
   stems:
     - class: "I"
@@ -1240,6 +1226,20 @@
           meaning_en: "to blacken"
           meaning_he: "להשחיר"
 
+- root: "k-p-n"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kapon"
+        irrealis: "kapən"
+        past: "kpin"
+        imperative: "kpun"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be hungry"
+          meaning_he: "לרעוב"
+
 - root: "k-r-y"
   stems:
     - class: "I"
@@ -1266,6 +1266,20 @@
           telicity: "telic"
           meaning_en: "to shorten something"
           meaning_he: "לקצר"
+
+- root: "k-s-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kasoy"
+        irrealis: "kase"
+        past: "kse"
+        imperative: "ksi"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to cover"
+          meaning_he: "לכסות"
 
 - root: "k-w-š"
   stems:
@@ -1639,6 +1653,20 @@
           meaning_en: "to seal"
           meaning_he: "לחתום"
 
+- root: "n-f-s"
+  stems:
+    - class: "I"
+      bases:
+        realis: "nafos"
+        irrealis: "nafəs"
+        past: "nfis"
+        imperative: "nfus"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to breathe"
+          meaning_he: "לנשום"
+
 - root: "n-g-z"
   stems:
     - class: "I"
@@ -1693,20 +1721,6 @@
           telicity: "atelic"
           meaning_en: "to nap"
           meaning_he: "לנמנם"
-
-- root: "n-p-s"
-  stems:
-    - class: "I"
-      bases:
-        realis: "napos"
-        irrealis: "napəs"
-        past: "npis"
-        imperative: "npus"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to breathe"
-          meaning_he: "לנשום"
 
 - root: "n-p-ṣ"
   stems:
@@ -3265,6 +3279,20 @@
           meaning_en: "to pray"
           meaning_he: "להתפלל"
 
+- root: "ṣ-m-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ṣamoy"
+        irrealis: "ṣame"
+        past: "ṣme"
+        imperative: "ṣmi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be thirsty"
+          meaning_he: "להיות צמא"
+
 - root: "ṣ-p-y"
   stems:
     - class: "I"
@@ -3374,6 +3402,24 @@
           telicity: "telic"
           meaning_en: "to fool, to decive"
           meaning_he: "לרמות, לעבוד על"
+
+- root: "š-l-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "šaloq"
+        irrealis: "šaləq"
+        past: "šliq"
+        imperative: "šluq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to burn"
+          meaning_he: "לשרוף"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to burn"
+          meaning_he: "להישרף"
 
 - root: "š-l-t"
   stems:
@@ -3647,22 +3693,6 @@
 
 - root: "š-x-n"
   stems:
-    - class: "I"
-      bases:
-        realis: "šaxon"
-        irrealis: "šaxən"
-        past: "šxin"
-        imperative: "šxun"
-      meanings:
-        - transitivity: "intransitive"
-          telicity: "atelic"
-          meaning_en: "to warm oneself"
-          meaning_he: "להתחמם"
-        - transitivity: "intransitive"
-          telicity: "atelic"
-          meaning_en: "to get a fever"
-          meaning_he: "לקבל חום"
-
     - class: "III"
       pretendant: "m-šx-n"
       bases:
@@ -3675,6 +3705,10 @@
           telicity: "telic"
           meaning_en: "to warm, to heat"
           meaning_he: "לחמם"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get warm, to get heated"
+          meaning_he: "להתחמם"
 
 - root: "š-y-p"
   stems:
