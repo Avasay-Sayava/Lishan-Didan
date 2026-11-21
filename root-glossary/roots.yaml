@@ -1075,6 +1075,47 @@
           meaning_en: "to tire"
           meaning_he: "לעייף"
 
+- root: "ġ-l-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ġalot"
+        irrealis: "ġalət"
+        past: "ġlit"
+        imperative: "ġlut"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to make a mistake, to err"
+          meaning_he: "לטעות"
+
+    - class: "III"
+      pretendant: "m-ġl-t"
+      bases:
+        realis: "maġlot"
+        irrealis: "maġlət"
+        past: "məġlit"
+        imperative: "məġlut"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to make someone make a mistake, to cause someone to err"
+          meaning_he: "להטעות"
+
+- root: "ġ-y-b"
+  stems:
+    - class: "I"
+      bases:
+        realis: "ġiyab"
+        irrealis: "ġeb"
+        past: "ġib"
+        imperative: "ġub"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to feel a lack, to feel a shortage"
+          meaning_he: "להרגיש חוסר, להרגיש מחסור"
+
 - root: "h-q-y"
   stems:
     - class: "I"
@@ -1471,33 +1512,6 @@
           meaning_en: "to fill"
           meaning_he: "למלא"
 
-- root: "m-r-l"
-  stems:
-    - class: "I"
-      bases:
-        realis: "marol"
-        irrealis: "marəl"
-        past: "mril"
-        imperative: "mrul"
-      meanings:
-        - transitivity: "intransitive"
-          telicity: "atelic"
-          meaning_en: "to become bitter"
-          meaning_he: "להתמרר"
-
-    - class: "III"
-      pretendant: "m-mr-l"
-      bases:
-        realis: "mamrol"
-        irrealis: "mamrəl"
-        past: "məmril"
-        imperative: "məmrul"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to embitter"
-          meaning_he: "להמריר"
-
 - root: "m-r-y"
   stems:
     - class: "I"
@@ -1871,6 +1885,20 @@
           telicity: "telic"
           meaning_en: "to shame"
           meaning_he: "לבייש"
+
+- root: "n-x-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naxor"
+        irrealis: "naxər"
+        past: "nxir"
+        imperative: "nxur"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to snore"
+          meaning_he: "לנחור"
 
 - root: "n-y-m"
   stems:
@@ -3249,6 +3277,24 @@
           telicity: "telic"
           meaning_en: "to slap"
           meaning_he: "לסטור"
+
+- root: "s-w-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "sawoy"
+        irrealis: "sawe"
+        past: "swe"
+        imperative: "swi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be full (from food)"
+          meaning_he: "לשבוע"
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to get full of something"
+          meaning_he: "להמאס"
 
 - root: "s-y-y"
   stems:
