@@ -1376,6 +1376,20 @@
           meaning_en: "to make lough"
           meaning_he: "להצחיק"
 
+- root: "l-q-q"
+  stems:
+    - class: "I"
+      bases:
+        realis: "laqoq"
+        irrealis: "laqəq"
+        past: "lqiq"
+        imperative: "lquq"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lick"
+          meaning_he: "ללקק"
+
 - root: "l-t-x"
   stems:
     - class: "I"
@@ -1498,6 +1512,20 @@
           meaning_en: "to be erased"
           meaning_he: "למחוק"
 
+- root: "m-l-x"
+  stems:
+    - class: "I"
+      bases:
+        realis: "malox"
+        irrealis: "maləx"
+        past: "mlix"
+        imperative: "mlux"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to salt"
+          meaning_he: "להמליח"
+
 - root: "m-l-y"
   stems:
     - class: "I"
@@ -1511,6 +1539,24 @@
           telicity: "telic"
           meaning_en: "to fill"
           meaning_he: "למלא"
+
+- root: "m-n-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "manoy"
+        irrealis: "mane"
+        past: "mne"
+        imperative: "mni"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to count"
+          meaning_he: "לספור"
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be counted"
+          meaning_he: "להיספר"
 
 - root: "m-r-y"
   stems:
