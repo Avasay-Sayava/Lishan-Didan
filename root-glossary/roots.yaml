@@ -666,7 +666,7 @@
     - class: "I"
       bases:
         realis: "dahol"
-        irrealis: "dahe"
+        irrealis: "dahəl"
         past: "dhil"
         imperative: "dhul"
       meanings:
@@ -1122,8 +1122,8 @@
       bases:
         realis: "haqoy"
         irrealis: "haqe"
-        past: "qe"
-        imperative: "qi"
+        past: "hqe"
+        imperative: "hqi"
       meanings:
         - transitivity: "intransitive"
           telicity: "atelic"
@@ -1148,7 +1148,7 @@
     - class: "I"
       bases:
         realis: "hiwal"
-        irrealis: "hol"
+        irrealis: "hawəl"
         past: "wil"
         imperative: "hol"
       meanings:
@@ -1376,20 +1376,6 @@
           meaning_en: "to make lough"
           meaning_he: "להצחיק"
 
-- root: "l-q-q"
-  stems:
-    - class: "I"
-      bases:
-        realis: "laqoq"
-        irrealis: "laqəq"
-        past: "lqiq"
-        imperative: "lquq"
-      meanings:
-        - transitivity: "transitive"
-          telicity: "telic"
-          meaning_en: "to lick"
-          meaning_he: "ללקק"
-
 - root: "l-t-x"
   stems:
     - class: "I"
@@ -1416,6 +1402,20 @@
           telicity: "telic"
           meaning_en: "to stick something"
           meaning_he: "להדביק"
+
+- root: "l-t-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "latoy"
+        irrealis: "late"
+        past: "lte"
+        imperative: "lti"
+      meanings:
+        - transitivity: "transitive"
+          telicity: "telic"
+          meaning_en: "to lick"
+          meaning_he: "ללקק"
 
 - root: "l-w-š"
   stems:
