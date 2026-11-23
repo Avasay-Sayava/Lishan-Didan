@@ -79,7 +79,7 @@
           meaning_en: "to take"
           meaning_he: "לקחת"
       phrases:
-        - lishan_didan: "əlhá anté"
+        - lishan_didan: "əlha ante"
           meaning_en: "May God take / May be killed"
           meaning_he: "שאלוהים יקח"
 
@@ -95,7 +95,7 @@
           meaning_en: "to grant"
           meaning_he: "להעניק"
       phrases:
-        - lishan_didan: "əlhá mənté"
+        - lishan_didan: "əlha mante"
           meaning_en: "With God's help / God willing"
           meaning_he: "בעזרת השם"
 
@@ -232,6 +232,31 @@
         - transitivity: "transitive"
           meaning_en: "to invite"
           meaning_he: "להזמין"
+
+- root: "b-h-l"
+  stems:
+    - class: "I"
+      bases:
+        realis: "bahol"
+        irrealis: "bahəl"
+        past: "bhil"
+        imperative: "bhul"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be startled, to get scared"
+          meaning_he: "להיבהל"
+
+    - class: "III"
+      pretendant: "m-bh-l"
+      bases:
+        realis: "mabhol"
+        irrealis: "mabhəl"
+        past: "məbhil"
+        imperative: "məbhul"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to strale, to scare"
 
 - root: "b-h-r"
   stems:
@@ -618,6 +643,10 @@
           telicity: "telic"
           meaning_en: "to ignite oneself"
           meaning_he: "לדלוק"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to turn on (electric device)"
+          meaning_he: "להידלק (מכשיר חשמלי)"
 
     - class: "III"
       pretendant: "m-l-q"
@@ -630,6 +659,10 @@
         - transitivity: "transitive"
           meaning_en: "to ignite, to kindle"
           meaning_he: "להדליק"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to turn on (electric device)"
+          meaning_he: "להידלק (מכשיר חשמלי)"
 
 - root: "d-m-x"
   stems:
@@ -1102,6 +1135,32 @@
           meaning_en: "to pee"
           meaning_he: "להשתין"
 
+- root: "k-l-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kalow"
+        irrealis: "kaləw"
+        past: "kliw"
+        imperative: "kluw"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to write"
+          meaning_he: "לכתוב"
+
+- root: "k-l-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "kalow"
+        irrealis: "kaləw"
+        past: "kliw"
+        imperative: "kluw"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to write"
+          meaning_he: "לכתוב"
+
 - root: "k-m-y"
   stems:
     - class: "I"
@@ -1551,6 +1610,45 @@
           meaning_en: "to make blue"
           meaning_he: "לגרום להכחיל"
 
+- root: "m-y-ṣ"
+  stems:
+    - class: "I"
+      bases:
+        realis: "miyaṣ"
+        irrealis: "meṣ"
+        past: "miṣ"
+        imperative: "muṣ"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to suckle, to nurse"
+          meaning_he: "לינוק"
+
+    - class: "III"
+      pretendant: "m-m-ṣ"
+      bases:
+        realis: "mamoṣ"
+        irrealis: "maməṣ"
+        past: "məmiṣ"
+        imperative: "məmuṣ"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to breastfeed, to nurse (a baby)"
+          meaning_he: "להיניק"
+
+- root: "n-b-y"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naboy"
+        irrealis: "nabe"
+        past: "nbē"
+        imperative: "nbi"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to swell up, to inflate"
+          meaning_he: "להתנפח"
+
 - root: "n-d-y"
   stems:
     - class: "I"
@@ -1605,12 +1703,8 @@
       meanings:
         - transitivity: "intransitive"
           telicity: "atelic"
-          meaning_en: "to shine"
-          meaning_he: "לזהור"
-        - transitivity: "intransitive"
-          telicity: "telic"
-          meaning_en: "to turn on (electric device)"
-          meaning_he: "להידלק (מכשיר חשמלי)"
+          meaning_en: "to burn"
+          meaning_he: "לבעור"
 
     - class: "III"
       pretendant: "m-nh-r"
@@ -1621,11 +1715,8 @@
         imperative: "mənhur"
       meanings:
         - transitivity: "transitive"
-          meaning_en: "to make shine"
-          meaning_he: "לגרום לזהור"
-        - transitivity: "transitive"
-          meaning_en: "to turn on (electric device)"
-          meaning_he: "להדליק (מכשיר חשמלי)"
+          meaning_en: "to burn"
+          meaning_he: "להבעיר"
 
 - root: "n-mn-m"
   stems:
@@ -1727,6 +1818,19 @@
         - transitivity: "transitive"
           meaning_en: "to make lose weight"
           meaning_he: "להרזות"
+
+- root: "n-q-r"
+  stems:
+    - class: "I"
+      bases:
+        realis: "naqor"
+        irrealis: "naqər"
+        past: "nqir"
+        imperative: "nqur"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to peck"
+          meaning_he: "לנקר"
 
 - root: "n-š-l"
   stems:
@@ -2078,6 +2182,23 @@
           meaning_en: "to spread something out"
           meaning_he: "לפרושׂ"
 
+- root: "p-r-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "parot"
+        irrealis: "parət"
+        past: "prit"
+        imperative: "prut"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to untangle, to untie"
+          meaning_he: "לפרום"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get untangled, to get untied"
+          meaning_he: "להיפרם"
+
 - root: "p-r-x"
   stems:
     - class: "I"
@@ -2142,6 +2263,20 @@
         - transitivity: "transitive"
           meaning_en: "to mash"
           meaning_he: "למעוך שוב ושוב"
+
+- root: "p-š-m"
+  stems:
+    - class: "I"
+      bases:
+        realis: "pašom"
+        irrealis: "pašəm"
+        past: "pšim"
+        imperative: "pšum"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to regret"
+          meaning_he: "להתחרט"
 
 - root: "p-š-r"
   stems:
@@ -2396,6 +2531,32 @@
           meaning_en: "to peel"
           meaning_he: "לקלף"
 
+- root: "q-l-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qalow"
+        irrealis: "qaləw"
+        past: "qliw"
+        imperative: "qluw"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to clean"
+          meaning_he: "לנקות"
+
+- root: "q-l-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "qalow"
+        irrealis: "qaləw"
+        past: "qliw"
+        imperative: "qluw"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to clean"
+          meaning_he: "לנקות"
+
 - root: "q-mṣ-n"
   stems:
     - class: "Q-I"
@@ -2556,6 +2717,9 @@
         - transitivity: "transitive"
           meaning_en: "to slice"
           meaning_he: "לפרוס"
+        - transitivity: "transitive"
+          meaning_en: "to pick, to pluck"
+          meaning_he: "לקטוף"
         - transitivity: "intransitive"
           telicity: "telic"
           meaning_en: "to get sliced"
@@ -4276,6 +4440,19 @@
           meaning_en: "to poop"
           meaning_he: "לחרבן"
 
+- root: "x-š-w"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xašow"
+        irrealis: "xašəw"
+        past: "xšiw"
+        imperative: "xšuw"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to think, to consider"
+          meaning_he: "לחשוב"
+
 - root: "x-š-x"
   stems:
     - class: "I"
@@ -4376,6 +4553,23 @@
           telicity: "telic"
           meaning_en: "to shower"
           meaning_he: "להתקלח"
+
+- root: "x-y-t"
+  stems:
+    - class: "I"
+      bases:
+        realis: "xiyat"
+        irrealis: "xet"
+        past: "xit"
+        imperative: "xut"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to sew"
+          meaning_he: "לתפור"
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get sewn"
+          meaning_he: "להיתפר"
 
 - root: "x-y-y"
   stems:

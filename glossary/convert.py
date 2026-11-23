@@ -33,7 +33,7 @@ def format_latex(text, smallcaps=True):
     import re
     # 1. Turn ALL CAPS abbreviations (like PRO, NV, 3M) into small caps
     if smallcaps:
-        text = re.sub(r'(?<![A-Za-z0-9])([A-Z0-9]{2,})(?![A-Za-z0-9])', lambda m: r"{\small \textnormal{\textsc{" + m.group(1).lower() + r"}}}", text)
+        text = re.sub(r'(?<![A-Za-z0-9])(?=[A-Z0-9]{2,})(?=[A-Z0-9]*[A-Z])([A-Z0-9]+)(?![A-Za-z0-9])', lambda m: r"{\small \textnormal{\textsc{" + m.group(1).lower() + r"}}}", text)
     
     # 2. Turn _i into a subscript using the user's custom subscript format
     text = re.sub(r'_([a-zA-Z0-9]+)', lambda m: subscript(r"\textnormal{" + m.group(1) + r"}"), text)
