@@ -1,14 +1,14 @@
-name: Sort YAML and Build Root Glossary PDF
+name: Sort YAML and Build Glossary PDFs
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'root-glossary/roots.yaml'
-      - 'root-glossary/words.yaml'
-      - 'root-glossary/sort.py'
-      - 'root-glossary/convert.py'
+      - 'glossary/roots.yaml'
+      - 'glossary/words.yaml'
+      - 'glossary/sort.py'
+      - 'glossary/convert.py'
   workflow_dispatch:
 
 permissions:
@@ -42,17 +42,17 @@ jobs:
             fonts-sil-charis
           pip install pyyaml
 
-      - name: Sort roots.yaml and compile glossary.pdf
-        working-directory: root-glossary
+      - name: Sort roots.yaml and compile glossary PDFs
+        working-directory: glossary
         run: |
           python3 sort.py
           python3 convert.py
 
-      - name: Commit and push updated roots.yaml and glossary.pdf
+      - name: Commit and push updated roots.yaml and glossary PDFs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add root-glossary/roots.yaml root-glossary/roots-glossary.pdf root-glossary/general-glossary.pdf
+          git add glossary/roots.yaml glossary/roots-glossary.pdf glossary/general-glossary.pdf
           if ! git diff --staged --quiet; then
             git commit -m "chore: sort roots.yaml and update glossary pdfs [skip ci]"
             git push
