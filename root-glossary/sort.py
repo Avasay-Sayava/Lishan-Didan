@@ -25,7 +25,7 @@ def main():
         elif isinstance(item, dict):
             # Enforce a specific key order for consistency
             ordered_dict = {}
-            for k in ['root', 'class', 'pretendant', 'transitivity', 'telicity', 'bases', 'forms', 'meanings', 'lishan_didan', 'meaning_en', 'meaning_he', 'idioms', 'phrases', 'examples']:
+            for k in ['root', 'stems', 'class', 'pretendant', 'transitivity', 'telicity', 'bases', 'meanings', 'words', 'pos', 'forms', 'ms', 'fs', 'sg', 'pl', 'lishan_didan', 'meaning_en', 'meaning_he', 'idioms', 'phrases', 'examples']:
                 if k in item:
                     ordered_dict[k] = normalize_data(item[k])
             for k in item.keys():

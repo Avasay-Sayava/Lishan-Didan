@@ -1,0 +1,2611 @@
+- word: "bāla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "bāle"
+    construct: "bāl"
+  meanings:
+    - meaning_en: "memory"
+      meaning_he: "זיכרון"
+  idioms:
+    - lishan_didan: "bāla_k-POSS_i ∅dy_k"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to recall"
+          meaning_he: "להיזכר"
+    - lishan_didan: "bāla-POSS_j mdy_i"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to remind"
+          meaning_he: "להזכיר"
+    - lishan_didan: "əm-bāla-POSS_i ∅zl_k"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to forget"
+          meaning_he: "לשכוח"
+
+- word: "ləbba"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "ləbbe"
+    construct: "ləbb"
+  meanings:
+    - meaning_en: "heart"
+      meaning_he: "לב"
+  idioms:
+    - lishan_didan: "ləbba-POSS_j bsm_i"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to comfort"
+          meaning_he: "לנחם"
+
+- word: "rēša"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "rēše"
+    construct: "rēš"
+  meanings:
+    - meaning_en: "head"
+      meaning_he: "ראש"
+    - meaning_en: "top"
+      meaning_he: "חלק עליון"
+  idioms:
+    - lishan_didan: "rēša-POSS_j bzy_i"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to nag"
+          meaning_he: "לעשות חור בראש, לחפור, לנדנד"
+
+- word: "rēša"
+  pos: "preposition"
+  forms:
+    construct: "rēš"
+  meanings:
+    - meaning_en: "on"
+      meaning_he: "על"
+    - meaning_en: "above"
+      meaning_he: "מעל"
+    - meaning_en: "about"
+      meaning_he: "על, בנושא"
+  idioms:
+    - lishan_didan: "rēša-POSS_j fry_i"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to hype about, to be into"
+          meaning_he: "לעוף על משהו, להתלהב מאוד מ-, להידלק על"
+
+- word: "nōša"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "nōš"
+  meanings:
+    - meaning_en: "oneself"
+      meaning_he: "עצמי"
+  idioms:
+    - lishan_didan: "nōša-POSS_i fry_i"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to be full of oneself"
+          meaning_he: "לעוף על עצמו"
+    - lishan_didan: "nōša-POSS_j fry_i"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to hype over someone, to be crazy about someone"
+          meaning_he: "לעוף על מישהו"
+    - lishan_didan: "nōša-POSS_i xšw_i"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to think highly of oneself, to be conceited"
+          meaning_he: "לחשוב את עצמו"
+    - lishan_didan: "nōša-POSS_j xšw_i"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to think highly of someone, to regard someone"
+          meaning_he: "לחשוב מישהו"
+
+- word: "sər"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "surprised, stunned"
+      meaning_he: "מופתע"
+  idioms:
+    - lishan_didan: "sər pyš"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to be stunned"
+          meaning_he: "להידהם"
+
+- word: "xēla"
+  pos: "preposition"
+  forms:
+    construct: "xēl"
+  meanings:
+    - meaning_en: "below, under"
+      meaning_he: "מתחת, למטה"
+
+- word: "xoš"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "fun, enjoyable, pleasant"
+      meaning_he: "כיף, מהנה"
+
+- word: "xōša"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xōš"
+  meanings:
+    - meaning_en: "fun, enjoyment, pleasure"
+      meaning_he: "כיף, הנאה"
+  idioms:
+    - lishan_didan: "xōša_k-POSS_i ∅dy_k"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to want, to desire"
+          meaning_he: "שיהיה בא למישהו"
+    - lishan_didan: "xōša-POSS_j mdy_i"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to make want, to bring back appetite"
+          meaning_he: "להחזיר תיאבון, לגרום לרצות"
+
+- word: "bohar"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "bohare"
+    construct: "bohar"
+  meanings:
+    - meaning_en: "Spring"
+      meaning_he: "אביב"
+
+- word: "naxoš"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "unfun, unenjoyable, unpleasant"
+      meaning_he: "לא כיף, לא מהנה"
+
+- word: "kōda"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kōd"
+    plural: "kōde"
+  meanings:
+    - meaning_en: "liver"
+      meaning_he: "כבד"
+
+- word: "lāra"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "lār"
+    plural: "lāre"
+  meanings:
+    - meaning_en: "lung"
+      meaning_he: "ריאה"
+
+- word: "tes"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "quickly, fast"
+      meaning_he: "מהר"
+
+- word: "parda"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "parde"
+    construct: "pard"
+  meanings:
+    - meaning_en: "curtain"
+      meaning_he: "וילון"
+
+- word: "šōba"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "šōb"
+    plural: "šōbe"
+  meanings:
+    - meaning_en: "cough"
+      meaning_he: "שיעול"
+  idioms:
+    - lishan_didan: "šōba ∅wd"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to cough"
+          meaning_he: "להשתעל"
+
+- word: "anti"
+  pos: "preposition"
+  meanings:
+    - meaning_en: "until, up to"
+      meaning_he: "עד"
+
+- word: "géna"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "again"
+      meaning_he: "שוב"
+
+- word: "biš"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "more (comparative marker)"
+      meaning_he: "יותר, עוד יותר"
+
+- word: "qam"
+  pos: "preposition"
+  forms:
+    construct: "qām"
+  meanings:
+    - meaning_en: "in front of, opposite, facing"
+      meaning_he: "מול"
+
+- word: "šəmāla"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "šəmāle"
+    construct: "šəmāl"
+  meanings:
+    - meaning_en: "candle"
+      meaning_he: "נר"
+
+- word: "lēfa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "lēf"
+    plural: "lēfe"
+  meanings:
+    - meaning_en: "duvet"
+      meaning_he: "שמיכת פוך"
+
+- word: "lóka"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "there"
+      meaning_he: "שם"
+
+- word: "láxa"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "here"
+      meaning_he: "פה"
+
+- word: "kaxta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kaxt"
+    plural: "kaxte"
+  meanings:
+    - meaning_en: "paper"
+      meaning_he: "נייר"
+
+- word: "panjara"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "panjar"
+    plural: "panjare"
+  meanings:
+    - meaning_en: "window"
+      meaning_he: "חלון"
+
+- word: "xiz"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "xiz"
+  meanings:
+    - meaning_en: "gravel"
+      meaning_he: "חצץ"
+
+- word: "tōsi"
+  pos: "noun"
+  gender: "feminine"
+  meanings:
+    - meaning_en: "dust"
+      meaning_he: "אבק"
+
+- word: "sabadīla"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "sabadīl"
+    plural: "sabadīle"
+  meanings:
+    - meaning_en: "pillow"
+      meaning_he: "כרית"
+
+- word: "kpāna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "kpān"
+    plural: "kpāne"
+  meanings:
+    - meaning_en: "shoulder"
+      meaning_he: "כתף"
+
+- word: "talasuk"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "busy, in a hurry, in a rush"
+      meaning_he: "עסוק, ממהר"
+
+- word: "nafas"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "nafas"
+    plural: "nafase"
+  meanings:
+    - meaning_en: "breath"
+      meaning_he: "נשימה"
+
+- word: "əfra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "əfr"
+  meanings:
+    - meaning_en: "sand"
+      meaning_he: "חול"
+
+- word: "xōla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xōl"
+    plural: "xōle"
+  meanings:
+    - meaning_en: "rope"
+      meaning_he: "חבל"
+
+- word: "xmāta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "xmāt"
+    plural: "xmāye"
+  meanings:
+    - meaning_en: "needle"
+      meaning_he: "מחט"
+
+- word: "čúnki"
+  pos: "conjunction"
+  meanings:
+    - meaning_en: "because"
+      meaning_he: "בגלל, כי"
+
+- word: "qətya"
+  pos: "adjective"
+  root: "I q-t-y"
+  pattern: "CCīCa"
+  forms:
+    plural: "qətye"
+    feminine_singular: "qtīta"
+  meanings:
+    - meaning_en: "cut"
+      meaning_he: "חתוך"
+
+- word: "pantron"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "pantron"
+    plural: "pantrone"
+  meanings:
+    - meaning_en: "European-style baggy trousers"
+      meaning_he: "מכנסיים בסגנון אירופאי מנופחים"
+    - meaning_en: "trousers, pants"
+      meaning_he: "מכנסיים"
+
+- word: "tāra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "tār"
+    plural: "tāre"
+  meanings:
+    - meaning_en: "door"
+      meaning_he: "דלת"
+
+- word: "xədya"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "xədye"
+    construct: "xədy"
+  meanings:
+    - meaning_en: "breast"
+      meaning_he: "שד"
+
+- word: "tēma"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "tēm"
+    plural: "tēme"
+  meanings:
+    - meaning_en: "taste, flavor"
+      meaning_he: "טעם"
+
+- word: "pəlga"
+  pos: "noun"
+  gender: "masculine"
+  root: "p-l-g"
+  pattern: "CəCCa"
+  forms:
+    construct: "pəlg"
+    plural: "pəlge"
+  meanings:
+    - meaning_en: "half"
+      meaning_he: "חצי"
+    - meaning_en: "middle"
+      meaning_he: "אמצע"
+
+- word: "tāwa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "tāw"
+    plural: "tāwe"
+  meanings:
+    - meaning_en: "frying pan, skillet"
+      meaning_he: "מחבת"
+
+- word: "ōda"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "ōd"
+    plural: "ōde"
+  meanings:
+    - meaning_en: "room"
+      meaning_he: "חדר"
+
+- word: "mtāxa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "mtāx"
+    plural: "mtāxe"
+  meanings:
+    - meaning_en: "decorative cushion, throw pillow"
+      meaning_he: "כרית נוי"
+
+- word: "mafraš"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "mafraš"
+    plural: "mafraše"
+  meanings:
+    - meaning_en: "bedsheet"
+      meaning_he: "סדין"
+
+- word: "batanya"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "batany"
+    plural: "batanye"
+  meanings:
+    - meaning_en: "blanket"
+      meaning_he: "שמיכה"
+
+- word: "lōta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "lōt"
+    plural: "lōte"
+  meanings:
+    - meaning_en: "chewing gum"
+      meaning_he: "מסטיק"
+
+- word: "čarpāya"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "čarpāy"
+    plural: "čarpāye"
+  meanings:
+    - meaning_en: "bed"
+      meaning_he: "מיטה"
+
+- word: "lēša"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "lēš"
+    plural: "lēše"
+  meanings:
+    - meaning_en: "corpse, dead body"
+      meaning_he: "גופה"
+
+- word: "wərta"
+  pos: "noun"
+  gender: "feminine"
+  root: "w-r-t"
+  pattern: "CəCCa"
+  forms:
+    construct: "wərt"
+    plural: "wərte"
+  meanings:
+    - meaning_en: "fart"
+      meaning_he: "פלוץ"
+
+- word: "jurta"
+  pos: "noun"
+  gender: "feminine"
+  root: "j-y-r"
+  pattern: "CuCta"
+  forms:
+    plural: "jōre"
+    construct: "jurt"
+  meanings:
+    - meaning_en: "urine, pee"
+      meaning_he: "פיפי, שתן"
+
+- word: "kčulta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kčult"
+    plural: "kčulye"
+  meanings:
+    - meaning_en: "kidney"
+      meaning_he: "כליה"
+
+- word: "dbənta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "dbənt"
+    plural: "dbənye"
+  meanings:
+    - meaning_en: "heel"
+      meaning_he: "עקב"
+
+- word: "rōqa"
+  pos: "noun"
+  gender: "masculine"
+  root: "r-y-q"
+  pattern: "CoCa"
+  forms:
+    construct: "rōq"
+  meanings:
+    - meaning_en: "saliva, spit"
+      meaning_he: "רוק"
+
+- word: "jāga"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "jāg"
+    plural: "jāge"
+  meanings:
+    - meaning_en: "ankle"
+      meaning_he: "קרסול"
+
+- word: "xərxra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xərxr"
+    plural: "xərxre"
+  meanings:
+    - meaning_en: "Adam's apple, windpipe"
+      meaning_he: "גרוגרת"
+
+- word: "spəlta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "spəlye"
+    construct: "spəlt"
+  meanings:
+    - meaning_en: "lip"
+      meaning_he: "שפה"
+
+- word: "muxta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "muxt"
+  meanings:
+    - meaning_en: "snot, nasal mucus"
+      meaning_he: "נזלת"
+
+- word: "jūja"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "jūj"
+    plural: "jūje"
+  meanings:
+    - meaning_en: "chick, fledgling"
+      meaning_he: "גוזל"
+
+- word: "ajib"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "strange, odd, puzzling"
+      meaning_he: "תמוה"
+
+- word: "ṣurta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "ṣurt"
+    plural: "ṣurte"
+  meanings:
+    - meaning_en: "facial expression"
+      meaning_he: "הבעת פנים"
+
+- word: "julla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "jull"
+    plural: "julle"
+  meanings:
+    - meaning_en: "garment, piece of clothing"
+      meaning_he: "בגד"
+  derived:
+    - lishan_didan: "julle"
+      pos: "noun"
+      number: "plural"
+      meanings:
+        - meaning_en: "laundry"
+          meaning_he: "כביסה"
+
+- word: "qayči"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "qayči"
+  meanings:
+    - meaning_en: "scissors"
+      meaning_he: "מספריים"
+
+- word: "korpi"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "korpi"
+  meanings:
+    - meaning_en: "bridge"
+      meaning_he: "גשר"
+
+- word: "knəšta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "knəšt"
+    plural: "knəšye"
+  meanings:
+    - meaning_en: "synagogue"
+      meaning_he: "בית כנסת"
+
+- word: "dukāna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "dukān"
+    plural: "dukāne"
+  meanings:
+    - meaning_en: "shop, store"
+      meaning_he: "חנות"
+
+- word: "māsita"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "māsye"
+    construct: "māsy"
+  meanings:
+    - meaning_en: "fish"
+      meaning_he: "דג"
+
+- word: "qanušta"
+  pos: "noun"
+  gender: "feminine"
+  root: "q-n-š"
+  pattern: "CaCuCta"
+  forms:
+    construct: "qanušt"
+    plural: "qanušye"
+  meanings:
+    - meaning_en: "broom"
+      meaning_he: "מטאטא"
+
+- word: "kūča"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kūč"
+    plural: "kūče"
+  meanings:
+    - meaning_en: "street"
+      meaning_he: "רחוב"
+
+- word: "syāma"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "syām"
+    plural: "syāme"
+  meanings:
+    - meaning_en: "shoe"
+      meaning_he: "נעל"
+
+- word: "qəfla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qəfl"
+    plural: "qəfle"
+  meanings:
+    - meaning_en: "lock"
+      meaning_he: "מנעול"
+
+- word: "mewāna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "mewāne"
+    feminine_singular: "mewanta"
+    construct: "mewān"
+  meanings:
+    - meaning_en: "guest"
+      meaning_he: "אורח"
+
+- word: "qazya"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "qazye"
+    construct: "qazy"
+  meanings:
+    - meaning_en: "trouble, misfortune"
+      meaning_he: "צרה"
+
+- word: "baroxa"
+  pos: "noun"
+  gender: "masculine"
+  root: "b-r-x"
+  pattern: "CaCoCa"
+  forms:
+    feminine_singular: "baruxta"
+    plural: "baroxe"
+    construct: "barox"
+  meanings:
+    - meaning_en: "friend"
+      meaning_he: "חבר"
+
+- word: "čōča"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "čōč"
+    plural: "čōče"
+  meanings:
+    - meaning_en: "cookie, biscuit"
+      meaning_he: "עוגייה"
+    - meaning_en: "pastry"
+      meaning_he: "מאפה"
+
+- word: "qēqa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "qēq"
+    plural: "qēqe"
+  meanings:
+    - meaning_en: "cake"
+      meaning_he: "עוגה"
+
+- word: "kāka"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kāk"
+    plural: "kāke"
+  meanings:
+    - meaning_en: "tooth"
+      meaning_he: "שן"
+
+- word: "emi"
+  pos: "pronoun"
+  meanings:
+    - meaning_en: "which"
+      meaning_he: "איזה"
+
+- word: "tka"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "tk"
+  meanings:
+    - meaning_en: "place"
+      meaning_he: "מקום"
+
+- word: "rasta"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "right, to the right"
+      meaning_he: "ימינה"
+
+- word: "čōpa"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "left, to the left"
+      meaning_he: "שמאלה"
+
+- word: "qáma"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "forward, ahead"
+      meaning_he: "קדימה"
+
+- word: "bára"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "backward, back"
+      meaning_he: "אחורה"
+
+- word: "pahalawan"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "pahlawan"
+    plural: "pahlawane"
+  meanings:
+    - meaning_en: "hero"
+      meaning_he: "גיבור"
+
+- word: "xānəm"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "xanm"
+    plural: "xanme"
+  meanings:
+    - meaning_en: "lady, Mrs."
+      meaning_he: "גברת"
+
+- word: "xmāra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xmār"
+    plural: "xmāre"
+    feminine_singular: "xmarta"
+  meanings:
+    - meaning_en: "donkey"
+      meaning_he: "חמור"
+
+- word: "jwan"
+  pos: "adjective"
+  forms:
+    feminine_singular: "jwanta"
+  meanings:
+    - meaning_en: "handsome, beautiful"
+      meaning_he: "נאה, יפה"
+
+- word: "qātəx"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qatx"
+    plural: "qatxe"
+  meanings:
+    - meaning_en: "pot cheese"
+      meaning_he: "גבינה רכה"
+
+- word: "hadīqa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "hadīqe"
+    construct: "hadīq"
+  meanings:
+    - meaning_en: "playground"
+      meaning_he: "גינת משחקים"
+
+- word: "hayat"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "hayat"
+    plural: "hayte"
+  meanings:
+    - meaning_en: "courtyard"
+      meaning_he: "חצר"
+
+- word: "xurma"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xurm"
+    plural: "xurme"
+  meanings:
+    - meaning_en: "date"
+      meaning_he: "תמר"
+
+- word: "xmurta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "xmury"
+    plural: "xmurye"
+  meanings:
+    - meaning_en: "bead"
+      meaning_he: "חרוז"
+
+- word: "saxtči"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "swindler, cheater, fraud, liar"
+      meaning_he: "נוכל, רמאי, שקרן"
+
+- word: "qaymax"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qaymax"
+    plural: "qaymaxe"
+  meanings:
+    - meaning_en: "clotted cream, kaymak"
+      meaning_he: "שמנת מוקרמת, קיימק"
+
+- word: "dehwa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "dehw"
+  meanings:
+    - meaning_en: "gold"
+      meaning_he: "זהב"
+
+- word: "klēlta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "klēly"
+    plural: "kəlle"
+  meanings:
+    - meaning_en: "hen, chicken"
+      meaning_he: "תרנגולת, עוף"
+
+- word: "bálki"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "maybe, perhaps"
+      meaning_he: "אולי"
+
+- word: "čópi"
+  pos: "noun"
+  gender: "masculine"
+  meanings:
+    - meaning_en: "chopi (traditional circle dance)"
+      meaning_he: "צ'ופי (ריקוד מעגל מסורתי)"
+
+- word: "geb"
+  pos: "preposition"
+  forms:
+    construct: "gēb"
+  meanings:
+    - meaning_en: "at, by, with (someone)"
+      meaning_he: "אצל"
+
+- word: "dasta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "dast"
+    plural: "daste"
+  meanings:
+    - meaning_en: "group, bunch, team"
+      meaning_he: "קבוצה"
+
+- word: "xəzqa"
+  pos: "noun"
+  gender: "masculine"
+  root: "x-z-q"
+  pattern: "CəCCa"
+  forms:
+    construct: "xəzq"
+    plural: "xəzqe"
+  meanings:
+    - meaning_en: "strength, power, force"
+      meaning_he: "כוח"
+
+- word: "sahna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "sahne"
+    construct: "sahn"
+  meanings:
+    - meaning_en: "plate"
+      meaning_he: "צלחת"
+
+- word: "kara"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "kar"
+  meanings:
+    - meaning_en: "butter"
+      meaning_he: "חמאה"
+
+- word: "ṣalme"
+  pos: "noun"
+  number: "plural"
+  forms:
+    construct: "ṣalm"
+  meanings:
+    - meaning_en: "face"
+      meaning_he: "פנים"
+
+- word: "zaqra"
+  pos: "noun"
+  gender: "masculine"
+  root: "z-q-r (i)"
+  pattern: "CaCCa"
+  forms:
+    plural: "zaqre"
+    construct: "zaqr"
+  meanings:
+    - meaning_en: "spider"
+      meaning_he: "עכביש"
+
+- word: "pīṣa"
+  pos: "adjective"
+  root: "I p-y-ṣ"
+  pattern: "CCīCa"
+  forms:
+    plural: "pīṣe"
+    feminine_singular: "pəṣta"
+  meanings:
+    - meaning_en: "leper"
+      meaning_he: "מצורע"
+
+- word: "qutra"
+  pos: "noun"
+  gender: "masculine"
+  root: "q-t-r"
+  pattern: "CuCCa"
+  forms:
+    plural: "qutre"
+    construct: "qutr"
+  meanings:
+    - meaning_en: "knot (in a string or rope)"
+      meaning_he: "קשר (בחוט או בחבל)"
+
+- word: "kotra"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "kotre"
+    construct: "kotr"
+  meanings:
+    - meaning_en: "pigeon, dove"
+      meaning_he: "יונה"
+
+- word: "rāzi"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "satisfied, pleased"
+      meaning_he: "מרוצה, שבע רצון"
+  idioms:
+    - lishan_didan: "rāzi xdr_i"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get satisfied"
+          meaning_he: "להתרצות, להיות שבע רצון"
+
+- word: "hāzər"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "ready, prepared"
+      meaning_he: "מוכן"
+
+- word: "qaṣāba"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "qaṣābe"
+    construct: "qaṣāb"
+    feminine_singular: "qaṣabta"
+  meanings:
+    - meaning_en: "butcher"
+      meaning_he: "קצב"
+
+- word: "pōxa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "pōxe"
+    construct: "pōx"
+  meanings:
+    - meaning_en: "wind"
+      meaning_he: "רוח"
+
+- word: "talīla"
+  pos: "adjective"
+  root: "t-l-l"
+  pattern: "CaCīCa"
+  forms:
+    plural: "talīle"
+    feminine_singular: "taləlta"
+  meanings:
+    - meaning_en: "wet"
+      meaning_he: "רטוב"
+
+- word: "ptīxa"
+  pos: "adjective"
+  root: "I p-t-x"
+  pattern: "CCīCa"
+  forms:
+    feminine_singular: "ptəxta"
+    plural: "ptīxe"
+  meanings:
+    - meaning_en: "wide"
+      meaning_he: "רחב"
+    - meaning_en: "broad"
+      meaning_he: "רחב"
+
+- word: "kwārča"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "kwārče"
+    construct: "kwārč"
+  meanings:
+    - meaning_en: "mushroom"
+      meaning_he: "פטרייה"
+
+- word: "čorake"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "čorak"
+  meanings:
+    - meaning_en: "story, tale"
+      meaning_he: "סיפור"
+
+- word: "arya"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "ary"
+    plural: "arye"
+  meanings:
+    - meaning_en: "lion"
+      meaning_he: "אריה"
+
+- word: "žāži"
+  pos: "noun"
+  gender: "masculine"
+  meanings:
+    - meaning_en: "herbed cheese dish (cheese with dill and garlic or onion)"
+      meaning_he: "מאכל גבינה עם שמיר ושום או בצל"
+
+- word: "čangal"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "čangal"
+    plural: "čangale"
+  meanings:
+    - meaning_en: "fork"
+      meaning_he: "מזלג"
+
+- word: "asər"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "asr"
+    plural: "asre"
+  meanings:
+    - meaning_en: "evening"
+      meaning_he: "ערב"
+
+- word: "žang"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "žang"
+  meanings:
+    - meaning_en: "rust"
+      meaning_he: "חלודה"
+
+- word: "qalīla"
+  pos: "adjective"
+  root: "q-l-l"
+  pattern: "CaCīCa"
+  forms:
+    plural: "qalīle"
+    feminine_singular: "qaləlta"
+  meanings:
+    - meaning_en: "light"
+      meaning_he: "קל"
+    - meaning_en: "easy"
+      meaning_he: "קל"
+
+- word: "qəwya"
+  pos: "adjective"
+  root: "I q-w-y"
+  pattern: "CCīCa"
+  forms:
+    plural: "qəwye"
+    feminine_singular: "qwīta"
+  meanings:
+    - meaning_en: "heavy"
+      meaning_he: "כבד"
+
+- word: "məšxa"
+  pos: "noun"
+  gender: "masculine"
+  root: "m-š-x (i)"
+  pattern: "CəCCa"
+  forms:
+    construct: "məšx"
+    plural: "məšxe"
+  meanings:
+    - meaning_en: "oil"
+      meaning_he: "שמן"
+  idioms:
+    - lishan_didan: "məšxa mrw"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "atelic"
+          meaning_en: "to stir up trouble, to instigate conflict (lit. to mix oil)"
+          meaning_he: "לסכסך, לחרחר ריב (מילולית: לערבב שמן)"
+
+- word: "portqal"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "portqal"
+    plural: "portqale"
+  meanings:
+    - meaning_en: "orange (fruit)"
+      meaning_he: "תפוז"
+    - meaning_en: "orange (color)"
+      meaning_he: "כתום"
+
+- word: "sərr"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "sərr"
+    plural: "sərre"
+  meanings:
+    - meaning_en: "secret"
+      meaning_he: "סוד"
+
+- word: "šūqa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "šūq"
+    plural: "šūqe"
+  meanings:
+    - meaning_en: "market"
+      meaning_he: "שוק"
+
+- word: "pōqa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "pōq"
+    plural: "pōqe"
+  meanings:
+    - meaning_en: "nose"
+      meaning_he: "אף"
+
+- word: "halfa"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "half"
+    plural: "halfe"
+  meanings:
+    - meaning_en: "letter (of the alphabet)"
+      meaning_he: "אות"
+
+- word: "šəmme"
+  pos: "noun"
+  number: "plural"
+  forms:
+    construct: "šəmm"
+  meanings:
+    - meaning_en: "sky, heaven"
+      meaning_he: "שמיים"
+
+- word: "ēwa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "ēw"
+    plural: "ewanye"
+  meanings:
+    - meaning_en: "cloud"
+      meaning_he: "ענן"
+
+- word: "qūta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "qūt"
+    plural: "qūte"
+  meanings:
+    - meaning_en: "vulva, female genitalia"
+      meaning_he: "איבר מין נשי"
+
+- word: "kartopita"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kartopy"
+    plural: "kartopye"
+  meanings:
+    - meaning_en: "potato"
+      meaning_he: "תפוח אדמה"
+
+- word: "ēna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "ēne"
+    construct: "ēn"
+  meanings:
+    - meaning_en: "eye"
+      meaning_he: "עין"
+  idioms:
+    - lishan_didan: "ēna_k-POSS_j bhr_k"
+      meanings:
+        - transitivity: "intransitive"
+          telicity: "telic"
+          meaning_en: "to get blessed with good news and joy"
+          meaning_he: "להתברך בבשורות טובות ושמחה"
+
+- word: "fartxa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "fartx"
+    plural: "fartxe"
+  meanings:
+    - meaning_en: "snot, nasal mucus"
+      meaning_he: "נזלת"
+
+- word: "pərčqa"
+  pos: "noun"
+  gender: "masculine"
+  root: "Q-I p-rč-q"
+  pattern: "CəCCa"
+  forms:
+    plural: "pərčqe"
+  meanings:
+    - meaning_en: "piece of bread"
+      meaning_he: "חתיכת לחם"
+
+- word: "barwāna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "barwān"
+    plural: "barwāne"
+  meanings:
+    - meaning_en: "apron, pinafore"
+      meaning_he: "סינר"
+
+- word: "pərčīqa"
+  pos: "adjective"
+  root: "Q-I p-rč-q"
+  pattern: "CCīCa"
+  forms:
+    plural: "pərčīqe"
+    feminine_singular: "pərčəqta"
+  meanings:
+    - meaning_en: "broken into pieces (bread)"
+      meaning_he: "מופרד לחתיכות (לחם)"
+
+- word: "čanga"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "čange"
+    construct: "čang"
+  meanings:
+    - meaning_en: "handful"
+      meaning_he: "חופן"
+
+- word: "xurda"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "xurde"
+    construct: "xurd"
+  meanings:
+    - meaning_en: "change (money)"
+      meaning_he: "עודף"
+
+- word: "čay"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "čāy"
+  meanings:
+    - meaning_en: "tea"
+      meaning_he: "תה"
+
+- word: "čayxāna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "čayxāne"
+    construct: "čayxān"
+  meanings:
+    - meaning_en: "teashop, teahouse"
+      meaning_he: "בית תה"
+
+- word: "čayči"
+  pos: "noun"
+  gender: "masculine"
+  meanings:
+    - meaning_en: "tea vendor"
+      meaning_he: "מוכר תה"
+
+- word: "qahwa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qahw"
+  meanings:
+    - meaning_en: "coffee"
+      meaning_he: "קפה"
+
+- word: "qahwaxāna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "qahwaxāne"
+    construct: "qahwaxān"
+  meanings:
+    - meaning_en: "coffee shop, coffeehouse"
+      meaning_he: "בית קפה"
+
+- word: "qahwači"
+  pos: "noun"
+  gender: "masculine"
+  meanings:
+    - meaning_en: "coffee vendor"
+      meaning_he: "מוכר קפה"
+
+- word: "yaqūra"
+  pos: "adjective"
+  root: "y-q-r"
+  pattern: "CaCūCa"
+  forms:
+    plural: "yaqūre"
+    feminine_singular: "yaqurta"
+  meanings:
+    - meaning_en: "heavy"
+      meaning_he: "כבד"
+    - meaning_en: "difficult"
+      meaning_he: "קשה"
+    - meaning_en: "hard"
+      meaning_he: "קשה"
+
+- word: "rōla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "rōl"
+    plural: "rōle"
+    feminine_singular: "rolta"
+  meanings:
+    - meaning_en: "dear, darling (term of endearment)"
+      meaning_he: "יקר, חביב (כינוי חיבה)"
+
+- word: "yarīxa"
+  pos: "adjective"
+  root: "y-r-x"
+  pattern: "CaCīCa"
+  forms:
+    feminine_singular: "yarəxta"
+    plural: "yarīxe"
+  meanings:
+    - meaning_en: "long"
+      meaning_he: "ארוך"
+
+- word: "basīma"
+  pos: "adjective"
+  root: "b-s-m"
+  pattern: "CaCīCa"
+  forms:
+    feminine_singular: "basəmta"
+    plural: "basīme"
+  meanings:
+    - meaning_en: "pleasant, tasty"
+      meaning_he: "נעים, טעים"
+    - meaning_en: "healthy, well"
+      meaning_he: "בריא"
+
+- word: "qənya"
+  pos: "adjective"
+  root: "I q-n-y"
+  pattern: "CCīCa"
+  forms:
+    plural: "qənye"
+    feminine_singular: "qnīta"
+  meanings:
+    - meaning_en: "green"
+      meaning_he: "ירוק"
+
+- word: "xlīma"
+  pos: "adjective"
+  root: "I x-l-m"
+  pattern: "CCīCa"
+  forms:
+    plural: "xlīme"
+    feminine_singular: "xləmta"
+  meanings:
+    - meaning_en: "embarrassed"
+      meaning_he: "נבוך"
+
+- word: "palaštin nəmrod"
+  pos: "expression"
+  meanings:
+    - meaning_en: "rascal, mischievous or silly person"
+      meaning_he: "שובב, שטותי"
+
+- word: "buxča"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "buxče"
+    construct: "baxč"
+  meanings:
+    - meaning_en: "garden"
+      meaning_he: "גינה"
+    - meaning_en: "flowerbed"
+      meaning_he: "ערוגה"
+
+- word: "rūba"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "rūbe"
+    construct: "rūb"
+  meanings:
+    - meaning_en: "quarter"
+      meaning_he: "רבע"
+
+- word: "plīta"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "plīte"
+    feminine_singular: "plətta"
+  meanings:
+    - meaning_en: "taken out"
+      meaning_he: "מוצא"
+    - meaning_en: "sticks out"
+      meaning_he: "יוצא, בולט"
+
+- word: "mənšīla"
+  pos: "adjective"
+  root: "III n-š-l"
+  pattern: "CCīCa"
+  forms:
+    plural: "mənšīle"
+    feminine_singular: "mənšəlta"
+  meanings:
+    - meaning_en: "chilled"
+      meaning_he: "מצונן"
+
+- word: "lasta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "last"
+    plural: "laste"
+  meanings:
+    - meaning_en: "pleasure, delight, enjoyment"
+      meaning_he: "תענוג"
+
+- word: "jandag"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "jandag"
+    plural: "jandage"
+  meanings:
+    - meaning_en: "body"
+      meaning_he: "גוף"
+
+- word: "rubba"
+  pos: "adjective"
+  root: "r-b-y"
+  pattern: "CuCCa"
+  forms:
+    plural: "rubbe"
+    feminine_singular: "rubta"
+  meanings:
+    - meaning_en: "great, large (in number or quantity)"
+      meaning_he: "רב, גדול (גודל מספרי)"
+
+- word: "ruppa"
+  pos: "adjective"
+  root: "r-b-y"
+  pattern: "CuCCa"
+  forms:
+    plural: "ruppe"
+    feminine_singular: "rupta"
+  meanings:
+    - meaning_en: "big, large (in physical size)"
+      meaning_he: "גדול (גודל פיזי)"
+
+- word: "ruwwa"
+  pos: "adjective"
+  root: "r-w-y"
+  pattern: "CuCCa"
+  forms:
+    plural: "ruwwe"
+    feminine_singular: "ruwta"
+  meanings:
+    - meaning_en: "adult, mature, grown-up"
+      meaning_he: "בוגר"
+
+- word: "roštahin"
+  pos: "noun"
+  number: "plural"
+  forms:
+    construct: "roštahin"
+    plural: "roštahin"
+  meanings:
+    - meaning_en: "noodles"
+      meaning_he: "אטריות"
+
+- word: "zóda"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "more"
+      meaning_he: "יותר"
+  idioms:
+    - lishan_didan: "biš zóda"
+      meanings:
+        - meaning_en: "even more"
+          meaning_he: "עוד יותר"
+
+- word: "baṣor"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "less"
+      meaning_he: "פחות"
+
+- word: "tayāra"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "tayār"
+    plural: "tayāre"
+  meanings:
+    - meaning_en: "airplane, plane"
+      meaning_he: "מטוס"
+
+- word: "talpāna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "talpān"
+    plural: "talpāne"
+  meanings:
+    - meaning_en: "telephone, phone"
+      meaning_he: "טלפון"
+
+- word: "gāre"
+  pos: "noun"
+  number: "plural"
+  forms:
+    construct: "gār"
+  meanings:
+    - meaning_en: "roof"
+      meaning_he: "גג"
+
+- word: "qrāwa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qrāw"
+    plural: "qrāwe"
+  meanings:
+    - meaning_en: "war, fight"
+      meaning_he: "מלחמה, קרב"
+
+- word: "parqa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "parq"
+    plural: "parqe"
+  meanings:
+    - meaning_en: "bread crumbs"
+      meaning_he: "פירורי לחם"
+
+- word: "to"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "good"
+      meaning_he: "טוב"
+  idioms:
+    - lishan_didan: "biš to"
+      meanings:
+        - meaning_en: "better"
+          meaning_he: "יותר טוב"
+
+- word: "áxči"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "how much (when the quantity is big)"
+      meaning_he: "כמה (על כמות גדולה)"
+
+- word: "zlobita"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "zlōby"
+    plural: "zlōbye"
+  meanings:
+    - meaning_en: "fritter"
+      meaning_he: "לביבה"
+
+- word: "qatūla"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "qatwe"
+    construct: "qatūl"
+  meanings:
+    - meaning_en: "cat"
+      meaning_he: "חתול"
+
+- word: "tafənga"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "tafəng"
+    plural: "tafənge"
+  meanings:
+    - meaning_en: "nostril"
+      meaning_he: "נחיר"
+
+- word: "kor"
+  pos: "adjective"
+  meanings:
+    - meaning_en: "blind"
+      meaning_he: "עיוור"
+
+- word: "zāda"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "zāde"
+    construct: "zād"
+  meanings:
+    - meaning_en: "time, instance, occasion"
+      meaning_he: "פעם"
+
+- word: "kŭl"
+  pos: "quantifier"
+  forms:
+    construct: "kŭll"
+  meanings:
+    - meaning_en: "all, every"
+      meaning_he: "כל"
+
+- word: "găl"
+  pos: "preposition"
+  forms:
+    construct: "găll"
+  meanings:
+    - meaning_en: "with"
+      meaning_he: "עם"
+
+- word: "qə̆bal"
+  pos: "preposition"
+  forms:
+    construct: "qbə̆ll"
+  meanings:
+    - meaning_en: "before (time)"
+      meaning_he: "לפני (זמן)"
+
+- word: "wāda"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "wāde"
+    construct: "wād"
+  meanings:
+    - meaning_en: "time"
+      meaning_he: "זמן"
+
+- word: "sūla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "sūle"
+    construct: "sūl"
+  meanings:
+    - meaning_en: "work, job"
+      meaning_he: "עבודה"
+
+- word: "šru"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "šru"
+  meanings:
+    - meaning_en: "beginning, start"
+      meaning_he: "התחלה"
+  idioms:
+    - lishan_didan: "šru ∅wd"
+      meanings:
+        - transitivity: "transitive"
+          meaning_en: "to begin, to start"
+          meaning_he: "להתחיל"
+
+- word: "qmal"
+  pos: "preposition"
+  forms:
+    construct: "qmāl"
+  meanings:
+    - meaning_en: "before, ahead of (in space/order, e.g. in line)"
+      meaning_he: "לפני, קודם (במרחב, בתור)"
+
+- word: "kēpa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "kēpe"
+    construct: "kēp"
+  meanings:
+    - meaning_en: "stone, rock"
+      meaning_he: "אבן"
+
+- word: "jāda"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "jāde"
+    construct: "jād"
+  meanings:
+    - meaning_en: "road"
+      meaning_he: "כביש"
+
+- word: "gūda"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "gūdāne"
+    construct: "gūd"
+  meanings:
+    - meaning_en: "wall"
+      meaning_he: "קיר"
+
+- word: "málle"
+  pos: "interjection"
+  meanings:
+    - meaning_en: "enough, that's it"
+      meaning_he: "מספיק, זהו"
+
+- word: "yāla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "yāle"
+    construct: "yāl"
+  meanings:
+    - meaning_en: "child, boy"
+      meaning_he: "ילד"
+
+- word: "nūra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "nūr"
+  meanings:
+    - meaning_en: "light"
+      meaning_he: "אור"
+    - meaning_en: "electricity"
+      meaning_he: "חשמל"
+
+- word: "xəška"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xəšk"
+  meanings:
+    - meaning_en: "darkness"
+      meaning_he: "חושך"
+
+- word: "gōra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "gōre"
+    construct: "gōr"
+  meanings:
+    - meaning_en: "man"
+      meaning_he: "איש"
+
+- word: "gōra"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "gōrye"
+    construct: "gōry"
+  meanings:
+    - meaning_en: "sock"
+      meaning_he: "גרב"
+
+- word: "dugma"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "dugme"
+    construct: "dugm"
+  meanings:
+    - meaning_en: "button"
+      meaning_he: "כפתור"
+
+- word: "mə̆n"
+  pos: "preposition"
+  forms:
+    construct: "mə̆nn"
+  meanings:
+    - meaning_en: "from"
+      meaning_he: "מ-"
+
+- word: "əm"
+  pos: "preposition"
+  meanings:
+    - meaning_en: "from"
+      meaning_he: "מ-"
+
+- word: "ba"
+  pos: "preposition"
+  forms:
+    construct: "ba"
+  meanings:
+    - meaning_en: "for"
+      meaning_he: "בשביל"
+
+- word: "ga"
+  pos: "preposition"
+  forms:
+    construct: "ga"
+  meanings:
+    - meaning_en: "in, inside"
+      meaning_he: "בתוך"
+
+- word: "g"
+  pos: "preposition"
+  meanings:
+    - meaning_en: "in"
+      meaning_he: "ב-"
+
+- word: "w"
+  pos: "conjunction"
+  meanings:
+    - meaning_en: "and"
+      meaning_he: "ו-"
+
+- word: "bēna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "bēne"
+    construct: "bēn"
+  meanings:
+    - meaning_en: "forehead"
+      meaning_he: "מצח"
+
+- word: "pōqa"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "pōqe"
+    construct: "pōq"
+  meanings:
+    - meaning_en: "nose"
+      meaning_he: "אף"
+
+- word: "la"
+  pos: "particle"
+  meanings:
+    - meaning_en: "no, not"
+      meaning_he: "לא"
+
+- word: "e"
+  pos: "particle"
+  meanings:
+    - meaning_en: "yes"
+      meaning_he: "כן"
+
+- word: "yan"
+  pos: "preposition"
+  forms:
+    construct: "yān"
+  meanings:
+    - meaning_en: "next to, beside"
+      meaning_he: "על יד"
+
+- word: "əl"
+  pos: "preposition"
+  forms:
+    construct: "əl"
+  meanings:
+    - meaning_en: "to, for"
+      meaning_he: "ל-"
+
+- word: "xamnōša"
+  pos: "adverb"
+  from: "xa əm-nōša"
+  forms:
+    construct: "xamnōš"
+  meanings:
+    - meaning_en: "alone, by oneself"
+      meaning_he: "לבד"
+
+- word: "xaxet"
+  pos: "adjective"
+  from: "xa xet"
+  meanings:
+    - meaning_en: "different"
+      meaning_he: "שונה, אחר"
+
+- word: "šamantfar"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "šamantfare"
+    construct: "šamantfar"
+  meanings:
+    - meaning_en: "train"
+      meaning_he: "רכבת"
+
+- word: "xet"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "more"
+      meaning_he: "עוד"
+
+- word: "xamra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xamr"
+    plural: "xamre"
+  meanings:
+    - meaning_en: "wine"
+      meaning_he: "יין"
+
+- word: "masalan"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "for example"
+      meaning_he: "לדוגמה"
+
+- word: "gərdol"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "gərdol"
+  meanings:
+    - meaning_en: "thick rice soup cooked with garlic butter and cheeses"
+      meaning_he: "גרדול (מרק אורז סמיך עם גבינות חמאה ושום)"
+
+- word: "kpīna"
+  pos: "adjective"
+  root: "k-p-n"
+  pattern: "CCīCa"
+  forms:
+    plural: "kpīne"
+    feminine_singular: "kpənta"
+  meanings:
+    - meaning_en: "hungry"
+      meaning_he: "רעב"
+
+- word: "xūya"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xūy"
+    plural: "xūye"
+  meanings:
+    - meaning_en: "snake"
+      meaning_he: "נחש"
+
+- word: "darmāna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "darmān"
+    plural: "darmāne"
+  meanings:
+    - meaning_en: "medicine, drug"
+      meaning_he: "תרופה"
+
+- word: "šūša"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "šūš"
+    plural: "šūše"
+  meanings:
+    - meaning_en: "bottle"
+      meaning_he: "בקבוק"
+
+- word: "glas"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "glās"
+  meanings:
+    - meaning_en: "glass"
+      meaning_he: "זכוכית"
+
+- word: "skan"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "skane"
+    construct: "skān"
+  meanings:
+    - meaning_en: "cup, drinking glass"
+      meaning_he: "כוס"
+
+- word: "hol"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "hōle"
+    construct: "hōl"
+  meanings:
+    - meaning_en: "hall"
+      meaning_he: "אולם"
+
+- word: "māye"
+  pos: "noun"
+  number: "plural"
+  forms:
+    construct: "māy"
+  meanings:
+    - meaning_en: "water"
+      meaning_he: "מים"
+
+- word: "šīra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "šīr"
+    plural: "šīre"
+  meanings:
+    - meaning_en: "juice, smoothie"
+      meaning_he: "מיץ, שייק, תרכיז"
+
+- word: "mēza"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "mēz"
+    plural: "mēze"
+  meanings:
+    - meaning_en: "table"
+      meaning_he: "שולחן"
+
+- word: "kalam"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "kalam"
+    plural: "kalame"
+  meanings:
+    - meaning_en: "cabbage"
+      meaning_he: "כרוב"
+
+- word: "qalam"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "qalam"
+    plural: "qalame"
+  meanings:
+    - meaning_en: "pen, pencil"
+      meaning_he: "עט, עיפרון"
+
+- word: "kursi"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "kursi"
+  meanings:
+    - meaning_en: "chair"
+      meaning_he: "כיסא"
+
+- word: "xāye"
+  pos: "noun"
+  number: "plural"
+  root: "x-y-y"
+  forms:
+    construct: "xāy"
+  meanings:
+    - meaning_en: "life"
+      meaning_he: "חיים"
+
+- word: "xawli"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "xawlye"
+    construct: "xawli"
+  meanings:
+    - meaning_en: "towel"
+      meaning_he: "מגבת"
+
+- word: "măni"
+  pos: "pronoun"
+  meanings:
+    - meaning_en: "who"
+      meaning_he: "מי"
+
+- word: "sōna"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "sōnawe"
+    construct: "sōn"
+  meanings:
+    - meaning_en: "grandfather"
+      meaning_he: "סבא"
+
+- word: "sóne"
+  pos: "noun"
+  gender: "masculine"
+  from: "sōna"
+  meanings:
+    - meaning_en: "grandpa (vocative)"
+      meaning_he: "סבאלה"
+
+- word: "nāna"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "nāne"
+    construct: "nān"
+  meanings:
+    - meaning_en: "grandmother"
+      meaning_he: "סבתא"
+
+- word: "náne"
+  pos: "noun"
+  gender: "feminine"
+  from: "nāna"
+  meanings:
+    - meaning_en: "grandma (vocative)"
+      meaning_he: "סבתאלה"
+
+- word: "dāya"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "dāye"
+    construct: "dāy"
+  meanings:
+    - meaning_en: "mother"
+      meaning_he: "אמא"
+
+- word: "dáye"
+  pos: "noun"
+  gender: "feminine"
+  from: "dāya"
+  meanings:
+    - meaning_en: "mommy (vocative)"
+      meaning_he: "אמאלה"
+
+- word: "dāda"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "dāde"
+    construct: "dād"
+  meanings:
+    - meaning_en: "father"
+      meaning_he: "אבא"
+
+- word: "dáde"
+  pos: "noun"
+  gender: "masculine"
+  from: "dāda"
+  meanings:
+    - meaning_en: "daddy (vocative)"
+      meaning_he: "אבאלה"
+
+- word: "axona"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "axonawe"
+    construct: "axon"
+  meanings:
+    - meaning_en: "brother"
+      meaning_he: "אח"
+
+- word: "xalunta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "xalunye"
+    construct: "xalunt"
+  meanings:
+    - meaning_en: "sister"
+      meaning_he: "אחות"
+
+- word: "brona"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "brone"
+    construct: "bron"
+  meanings:
+    - meaning_en: "son, boy"
+      meaning_he: "בן"
+
+- word: "brata"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "blane"
+    construct: "brat"
+  meanings:
+    - meaning_en: "daughter, girl"
+      meaning_he: "בת"
+
+- word: "baxta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    plural: "baxte"
+    construct: "baxt"
+  meanings:
+    - meaning_en: "woman, wife"
+      meaning_he: "אישה"
+
+- word: "ēra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    plural: "ēre"
+    construct: "ēr"
+  meanings:
+    - meaning_en: "penis"
+      meaning_he: "איבר מין זכרי"
+
+- word: "čəqya"
+  pos: "adjective"
+  root: "č-q-y"
+  pattern: "CCīCa"
+  forms:
+    plural: "čəqye"
+    feminine_singular: "čqīta"
+  meanings:
+    - meaning_en: "torn, ripped"
+      meaning_he: "קרוע"
+
+- word: "rang"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "rang"
+    plural: "rānge"
+  meanings:
+    - meaning_en: "color"
+      meaning_he: "צבע"
+
+- word: "kōma"
+  pos: "adjective"
+  root: "k-m-y"
+  forms:
+    plural: "kōme"
+    feminine_singular: "komta"
+  meanings:
+    - meaning_en: "black"
+      meaning_he: "שחור"
+
+- word: "xwāra"
+  pos: "adjective"
+  root: "x-w-r"
+  forms:
+    plural: "xwāre"
+    feminine_singular: "xwarta"
+  meanings:
+    - meaning_en: "white"
+      meaning_he: "לבן"
+
+- word: "tə́mmal"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "yesterday"
+      meaning_he: "אתמול"
+
+- word: "gupta"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "gupt"
+    plural: "gupte"
+  meanings:
+    - meaning_en: "cheese"
+      meaning_he: "גבינה"
+
+- word: "šəkla"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "šəkl"
+    plural: "šəkle"
+  meanings:
+    - meaning_en: "picture, image, photo"
+      meaning_he: "תמונה"
+
+- word: "fəkra"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "fəkr"
+    plural: "fəkre"
+  meanings:
+    - meaning_en: "thought"
+      meaning_he: "מחשבה"
+
+- word: "zang"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "zang"
+    plural: "zange"
+  meanings:
+    - meaning_en: "tunnel"
+      meaning_he: "מנהרה"
+
+- word: "ə̆t"
+  pos: "particle"
+  forms:
+    feminine_singular: "ə̆ta"
+    plural: "ə̆tu"
+    construct: "ə̆tt"
+  meanings:
+    - meaning_en: "there is, exists"
+      meaning_he: "יש"
+  derived:
+    - lishan_didan: "ə̆tt-POSS"
+      meanings:
+        - meaning_en: "to have"
+          meaning_he: "יש ל-"
+
+- word: "let"
+  pos: "particle"
+  forms:
+    feminine_singular: "léta"
+    plural: "létu"
+    construct: "létt"
+  meanings:
+    - meaning_en: "there is not, does not exist"
+      meaning_he: "אין"
+  derived:
+    - lishan_didan: "létt-POSS"
+      meanings:
+        - meaning_en: "to not have"
+          meaning_he: "אין ל-"
+
+- word: "ata"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "now"
+      meaning_he: "עכשיו"
+
+- word: "xošaba"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xošab"
+  meanings:
+    - meaning_en: "Sunday"
+      meaning_he: "יום ראשון"
+
+- word: "trúšeb"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "trúšeb"
+  meanings:
+    - meaning_en: "Monday"
+      meaning_he: "יום שני"
+
+- word: "tahúšeb"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "tahúšeb"
+  meanings:
+    - meaning_en: "Tuesday"
+      meaning_he: "יום שלישי"
+
+- word: "arbúšeb"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "arbúšeb"
+  meanings:
+    - meaning_en: "Wednesday"
+      meaning_he: "יום רביעי"
+
+- word: "xamšúšeb"
+  pos: "noun"
+  gender: "masculine"
+  forms:
+    construct: "xamšúšeb"
+  meanings:
+    - meaning_en: "Thursday"
+      meaning_he: "יום חמישי"
+
+- word: "arota"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "arot"
+  meanings:
+    - meaning_en: "Friday"
+      meaning_he: "יום שישי"
+
+- word: "šabat"
+  pos: "noun"
+  gender: "feminine"
+  forms:
+    construct: "šabat"
+  meanings:
+    - meaning_en: "Saturday, Shabbat"
+      meaning_he: "שבת"
+
+- word: "təltə́mmal"
+  pos: "adverb"
+  meanings:
+    - meaning_en: "the day before yesterday"
+      meaning_he: "שלשום"
